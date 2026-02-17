@@ -15,6 +15,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Accompagnateur de proximité",
+      "preparationAvantStage": "Pour pouvoir participer au stage, vous devez obligatoirement avoir suivi la Formation ouverte à distance intitulé STAGE ACCOMPAGNATEUR DE PROXIMITÉ d'une durée de 5H avant le début de celui-ci.\nL'ouverture de vos droits d'accès se fera 1 mois avant le début de la formation.\nLe travail réalisé durant cette FOAD servira de base lors des journées de formation. Il est compris dans le volume de formation du stage.",
+      "preRequis": "Prioritairement être sous-officier.\npré-requis obligatoire pour les formations CA1 P et fortement recommandé pour les CA1V.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "2 concepteurs ou formateurs accompagnateurs",
+      "tauxSatisfaction": "72.68 %",
+      "nbStagiairesN1": "68",
       "sessions": [
         {
           "nomShort": "ACCOMPAGNATEUR  DE PROXIMITE",
@@ -79,6 +86,13 @@
       "nbPlaces": "12",
       "publicConcerne": "Partenaires privés, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du diplôme d'animateur JSP.\nParticiper activement à l'encadrement au sein d'une section de JSP.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique FOR ACC (ayant des connaissances dans le domaine des JSP)\n1 formateur FDC : FOR ACC",
+      "tauxSatisfaction": "88.97 %",
+      "nbStagiairesN1": "60",
       "sessions": [
         {
           "nomShort": "FMPA ANIM JSP",
@@ -175,6 +189,13 @@
       "nbPlaces": "14",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "89.21 %",
+      "nbStagiairesN1": "55",
       "sessions": [
         {
           "nomShort": "FMPA FORMATEUR ACCOMPAGNATEUR",
@@ -263,6 +284,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir suivi la formation FOR ACC TRONC COMMUN.",
+      "objectif": "",
+      "niveauEncadrement": "2 Formateurs : FDC Concepteurs",
+      "tauxSatisfaction": "100.00 %",
+      "nbStagiairesN1": "16",
       "sessions": [
         {
           "nomShort": "FOR ACC SESSION APPLICATIVE",
@@ -295,6 +323,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Formateur accompagnateur",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "2 formateurs : FDC concepteurs",
+      "tauxSatisfaction": "98.75 %",
+      "nbStagiairesN1": "38",
       "sessions": [
         {
           "nomShort": "FOR ACC TRONC COMMUN",
@@ -343,6 +378,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "PAE FSR",
+      "preparationAvantStage": "Maitriser les techniques d'équipier secours routiers.\nMaitriser les techniques de formateur.",
+      "preRequis": "Avoir validé la journée de présélection (PRES PAE FSR).\nEtre affecté dans une caserne équipée de moyens SR.\nEtre équipier SR\nEtre formateur de premier secours",
+      "objectif": "Voir liste dans la rubrique \"équipements\".",
+      "niveauEncadrement": "1 responsable pédagogique (FF)\n1 formateur FF/FSR pour 4 stagiaires.",
+      "tauxSatisfaction": "89.17 %",
+      "nbStagiairesN1": "3",
       "sessions": [
         {
           "nomShort": "PAE FSR",
@@ -367,6 +409,13 @@
       "nbPlaces": "30",
       "publicConcerne": "Partenaires privés, PATS, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Ouvert à tout public ayant un contact régulier avec des mineurs dans le cadre du service.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "68",
       "sessions": [
         {
           "nomShort": "PREV VIOLENCES SUR MINEURS",
@@ -423,6 +472,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre FFPS au sein du SDMIS.\nObligation de suivre le module A et le module B.",
+      "objectif": "A déterminer en fonction du programme.",
+      "niveauEncadrement": "1 responsable pédagogique (référent zonal\n2 formateurs référents zonaux",
+      "tauxSatisfaction": "87.08 %",
+      "nbStagiairesN1": "28",
       "sessions": [
         {
           "nomShort": "FMPA FF SSUAP module A",
@@ -463,6 +519,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre FFPS au sein du SDMIS.\nObligation de suivre le module A et le module B.",
+      "objectif": "A définir selon programme.",
+      "niveauEncadrement": "1 responsable pédagogique (référent zonal)\n2 formateurs référents zonaux",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "29",
       "sessions": [
         {
           "nomShort": "FMPA FF SSUAP module B",
@@ -503,6 +566,13 @@
       "nbPlaces": "18",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "Maitriser les techniques d'équipier SUAP.\nMaitriser le GTOD SUAP.",
+      "preRequis": "Etre formateur SUAP au sein du SDMIS et participer activement à l'encadrement du SDMIS.",
+      "objectif": "A déterminer en fonction du programme.",
+      "niveauEncadrement": "1 responsable pédagogique (FF)\n3 FF",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "321",
       "sessions": [
         {
           "nomShort": "FMPA FPS SSUAP",
@@ -695,6 +765,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "PAE FPS",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir validé la journée de présélection (PRES PAE FPS)",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "PAE FPSE",
@@ -719,6 +796,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "PAE FPS",
+      "preparationAvantStage": "",
+      "preRequis": "Etre FPS dans une autre structure que le SDMIS.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique (FF expérimenté)\n1 FF pour 6 stagiaires",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "6",
       "sessions": [
         {
           "nomShort": "PASSERELLE PAE FPSE",
@@ -743,6 +827,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Être FPS au sein du SDMIS depuis 3 ans minimum\nÊtre sous-officier",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "2",
       "sessions": [
         {
           "nomShort": "PRES PAE FF CEAF",
@@ -767,6 +858,13 @@
       "nbPlaces": "20",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "Maitriser les techniques d'équipier SUAP.\nMaitriser le GTOD SUAP.",
+      "preRequis": "Avoir 18 ans et trois ans d'ancienneté.\nÊtre équipier SUAP.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "55",
       "sessions": [
         {
           "nomShort": "PRES PAE FPS",
@@ -791,6 +889,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "76.67 %",
+      "nbStagiairesN1": "4",
       "sessions": [
         {
           "nomShort": "FMPA FF SR",
@@ -815,6 +920,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre formateur secours routiers et à jour de sa FMPA FPS.",
+      "objectif": "Voir liste dans la rubrique \"équipements\".",
+      "niveauEncadrement": "1 responsable pédagogique (FF/FSR)\n1 formateur FF/FSR pour 6 stagiaires",
+      "tauxSatisfaction": "94.30 %",
+      "nbStagiairesN1": "1",
       "sessions": [
         {
           "nomShort": "FMPA PAE FSR",
@@ -895,6 +1007,13 @@
       "nbPlaces": "20",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre sur la liste opérationnelle des référents IUV.",
+      "objectif": "",
+      "niveauEncadrement": "Formateurs de formateurs IUV qualifiés.",
+      "tauxSatisfaction": "66.67 %",
+      "nbStagiairesN1": "31",
       "sessions": [
         {
           "nomShort": "FMPA REFERENT IUV",
@@ -927,6 +1046,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "Maitriser les techniques d'équipier secours routiers.",
+      "preRequis": "Etre titulaire du PICF et de la PAE FPS depuis au moins trois ans.\nEtre à jour de sa FMPA FPS.\nEtre formateur actif au sein du SDMIS.\nEtre affecté dans une caserne équipée de moyens SR.\nEtre équipier SR.",
+      "objectif": "1 salle de cours\n1 salle jury",
+      "niveauEncadrement": "1 responsable de stage représentant du pôle SUAP EDM\n2 formateurs FF et FSR",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "1",
       "sessions": [
         {
           "nomShort": "PRES PAE FSR",
@@ -951,6 +1077,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "93.85 %",
+      "nbStagiairesN1": "16",
       "sessions": [
         {
           "nomShort": "FMPA COMPREHENSION SYSTEME FEU",
@@ -999,6 +1132,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de la formation PAE FOR TEA et PAE FOR OTR",
+      "objectif": "",
+      "niveauEncadrement": "Défini par le GFOR",
+      "tauxSatisfaction": "85.42 %",
+      "nbStagiairesN1": "81",
       "sessions": [
         {
           "nomShort": "FMPA F INC",
@@ -1071,6 +1211,13 @@
       "nbPlaces": "16",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Être formateur de formateur incendie",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "13",
       "sessions": [
         {
           "nomShort": "FMPA FF INC",
@@ -1095,6 +1242,13 @@
       "nbPlaces": "8",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "89.17 %",
+      "nbStagiairesN1": "14",
       "sessions": [
         {
           "nomShort": "PAE F INC COEPT",
@@ -1127,6 +1281,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre formateur incendie aux techniques d'engagement et d'attaque",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "98.33 %",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "PAE FOR OTR",
@@ -1159,6 +1320,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Sans objet",
+      "preparationAvantStage": "Maitriser les techniques opérationnelles liées au chef d'équipe incendie",
+      "preRequis": "Être chef d'équipe ou chef d'agrès tout engin ou affecté en qualité de formateur permanent au GFOR.\nÊtre accompagnateur de proximité.\nValidation des inscriptions par le chef du GFOR.",
+      "objectif": "",
+      "niveauEncadrement": "Défini par le GFOR",
+      "tauxSatisfaction": "90.56 %",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "PAE FOR TEA",
@@ -1191,6 +1359,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir 18 ans et 3 ans d'ancienneté.\nÊtre titulaire de la formation FOR ACCOMPAGNATEUR.\nAvoir une expérience en formation.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "6",
       "sessions": [
         {
           "nomShort": "PRES PAE F INC",
@@ -1215,6 +1390,13 @@
       "nbPlaces": "8",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "FOR CMOV CEP",
+      "preparationAvantStage": "",
+      "preRequis": "Etre formateur COD1 ou FOR CMOV CEP.\nLa liste des agents à recycler est établie par la spécialité (GSO).\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "94.50 %",
+      "nbStagiairesN1": "11",
       "sessions": [
         {
           "nomShort": "FMPA FOR CMOV CEP",
@@ -1247,6 +1429,13 @@
       "nbPlaces": "8",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "FOR CMOV ECH",
+      "preparationAvantStage": "",
+      "preRequis": "Être FOR COD6 ou FOR CMOV ECH.\nLa liste des agents à recycler est établie par la spécialité (GSO).\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "98.33 %",
+      "nbStagiairesN1": "13",
       "sessions": [
         {
           "nomShort": "FMPA FOR CMOV ECH",
@@ -1295,6 +1484,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'unité de valeur COD3 ou FOR CMOV TT.\nLa liste des agents à recycler est établie par la spécialité (GSO).\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "-\tCCFM ¿ Caserne de _ acheminé par _\n-\tCCFM ¿ Caserne de _ acheminé par _\n-\tCCFM ¿ Caserne de _ acheminé par _\n-\tCCFM ¿ Caserne de _ acheminé par _\n-\tVFITT ¿ Caserne de _ acheminé par _\n-\tVFITT ¿ Caserne de _ acheminé par _\n-\tVFITT ¿ Caserne de _ acheminé par _\n-\tVFITT ¿ Caserne de _ acheminé par _\n-\tVAT ¿ acheminé par __\n-\tPC + vidéo projecteur de la spécialité conduite.\nLes VFITT doivent être équipées de radio.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "23",
       "sessions": [
         {
           "nomShort": "FMPA FOR CMOV TT",
@@ -1319,6 +1515,13 @@
       "nbPlaces": "8",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Validation des inscriptions par le chef de la spécialité.",
+      "objectif": "-\tCCFM ¿ Caserne de _ acheminé par _\n-\tCCFM ¿ Caserne de _ acheminé par _\n-\tCCFM ¿ Caserne de _ acheminé par _\n-\tCCFM ¿ Caserne de _ acheminé par _\n-\tVFITT ¿ Caserne de _ acheminé par _\n-\tVFITT ¿ Caserne de _ acheminé par _\n-\tVFITT ¿ Caserne de _ acheminé par _\n-\tVFITT ¿ Caserne de _ acheminé par _\n-\tVAT ¿ acheminé par __\n-\tPC + vidéo projecteur de la spécialité conduite.\nLes VFITT doivent être équipées de radio.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "6",
       "sessions": [
         {
           "nomShort": "FOR CMOV TT",
@@ -1343,6 +1546,13 @@
       "nbPlaces": "18",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "EAP JSP, FOR JSP 1",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir 18 ans révolus.\nEtre titulaire de la formation d'intégration SPP ou la formation d'équipier SPV adaptée aux activités réellement exercées.\nEtre aide animateur au sein d'une section de JSP.\nFournir l'attestation des 30 heures d'encadrement au minimum en qualité d'aide animateur (signée par le président de section).",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable stage FOR ACC ( ayant des connaissances dans le domaine des JSP)\n1 formateur FOR ACC (ayant des connaissances dans le domaine des JSP)\n1 EAP 2 pour 6 stagiaires du mardi au vendredi.",
+      "tauxSatisfaction": "75.00 %",
+      "nbStagiairesN1": "52",
       "sessions": [
         {
           "nomShort": "ANIM JSP",
@@ -1383,6 +1593,13 @@
       "nbPlaces": "8",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre formateur de formation tronçonneuse",
+      "objectif": "- 1 salle pour 24 stagiaires\n- 1 CTU\n- 1 VTP\n- 2 lots tronçonneuses",
+      "niveauEncadrement": "1 responsable de stage PPBE : Formateur de formateurs tronçonneuses\n1 formateur PPBE : Formateur tronçonneuse",
+      "tauxSatisfaction": "95.00 %",
+      "nbStagiairesN1": "18",
       "sessions": [
         {
           "nomShort": "FMPA FOR TRONC",
@@ -1407,6 +1624,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "SAP INC OD SR FARL",
+      "preparationAvantStage": "",
+      "preRequis": "Inscription réalisée après recrutement par le GGEC",
+      "objectif": "",
+      "niveauEncadrement": "Formateurs du GFOR",
+      "tauxSatisfaction": "97.50 %",
+      "nbStagiairesN1": "30",
       "sessions": [
         {
           "nomShort": "FI P",
@@ -1431,6 +1655,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Formation d'accueil des SPPNO intégrant le SDMIS en dehors de la FI P (mutation, emplois réservés, ...)",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "IMMERSION SPPNO",
@@ -1463,6 +1694,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "CA TTE P",
+      "preparationAvantStage": "Il vous est fortement demandé de prendre connaissance des documents accessibles sur AT ENA",
+      "preRequis": "Etre nommé adjudant de sapeur-pompier professionnel.",
+      "objectif": "",
+      "niveauEncadrement": "Désignation faite par le GFOR.",
+      "tauxSatisfaction": "87.02 %",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "CA TTE P",
@@ -1511,6 +1749,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Environnement professionnel \nCommandement opérationnel",
+      "preparationAvantStage": "Maitriser les techniques du chef d'équipe SPP",
+      "preRequis": "Être titulaire du diplôme de sapeur de sapeur-pompier professionnel.\nÊtre titulaire du diplôme de chef d'équipe de sapeur-pompier professionnel.\nÊtre sergent de sapeur-pompier professionnel.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "93.00 %",
+      "nbStagiairesN1": "13",
       "sessions": [
         {
           "nomShort": "CA1P",
@@ -1535,6 +1780,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Chef d'équipe SPP.",
+      "preparationAvantStage": "Maitriser les techniques de l'équipier SPP.",
+      "preRequis": "Etre caporal de SPP.\nEtre apte médicalement.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage INC : Formateur INC (OTR/TEA)\n3 formateurs INC : Formateur INC (OTR/TEA) CMOV CEP\n1 formateur Soutien : Opérateur aire gaz J1 de 13h à 14h\n1 formateur Soutien : Opérateur points feux MAF (OTR) J4 et J5",
+      "tauxSatisfaction": "90.13 %",
+      "nbStagiairesN1": "25",
       "sessions": [
         {
           "nomShort": "CE P",
@@ -1575,6 +1827,13 @@
       "nbPlaces": "18",
       "publicConcerne": "JSP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "module équipier au VSAV (SUAP A).",
+      "preparationAvantStage": "Maitriser les connaissances du module transverse.",
+      "preRequis": "Etre JSP 3 ou SPV.\nPour les JSP, avoir réaliser le PAO SUAP en section\nAvoir suivi et validé le module \"transverse\".\nAvoir suivi la FOAD avant FI SUAP sur @TENA.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique (FFPS - FPS expérimenté à défaut).\n1 FPS pour 6 stagiaires.",
+      "tauxSatisfaction": "88.62 %",
+      "nbStagiairesN1": "573",
       "sessions": [
         {
           "nomShort": "FI EQUIPIER SUAP A",
@@ -1831,6 +2090,13 @@
       "nbPlaces": "18",
       "publicConcerne": "JSP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Equipier au VSAV (SUAP B)",
+      "preparationAvantStage": "Maitriser les connaissances du module équipier au VSAV (SUAP A).",
+      "preRequis": "Avoir suivi et validé le module \"transverse\".\nAvoir suivi et validé le module équipier au VSAV (SUAP A).",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique(FFPS - FPS expérimenté à défaut)\n1 FPS pour 6 stagiaires",
+      "tauxSatisfaction": "89.11 %",
+      "nbStagiairesN1": "405",
       "sessions": [
         {
           "nomShort": "FI EQUIPIER SUAP B",
@@ -2087,6 +2353,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Transverse",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir suivi la FOAD disponible sur AT ENA.",
+      "objectif": "",
+      "niveauEncadrement": "1 Responsable de stage FPS\n2 formateurs FPS",
+      "tauxSatisfaction": "90.72 %",
+      "nbStagiairesN1": "191",
       "sessions": [
         {
           "nomShort": "FI TRANSVERSE",
@@ -2303,6 +2576,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Équipier incendie (INC A)",
+      "preparationAvantStage": "Il est conseillé de suivre quelques manoeuvres dans sa caserne d'affectation.",
+      "preRequis": "Avoir suivi et validé le module FI SMS.\nêtre équipier PPBE.\nÊtre équipier SUAP depuis 1 an.\nAvoir formulé son consentement dans GEEF.\nAvoir fait la demande du parcours équipier polyvalent via la voie hiérarchique.\nAvoir réalisé le parcours adapté opérationnel (PAO) incendie dans le temps imparti.\nÊtre apte médical aux emplois d'équipier incendie",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage désigné par l'EDM parmi les formateurs, qui sera Sous-officier Formateur INCENDIE\n2 formateurs INC : Formateur aux bases incendie\n2 formateurs INC : Formateur aux bases incendie CMOV CEP",
+      "tauxSatisfaction": "88.26 %",
+      "nbStagiairesN1": "132",
       "sessions": [
         {
           "nomShort": "FI EQUIPIER INC A",
@@ -2367,6 +2647,13 @@
       "nbPlaces": "16",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Équipier incendie",
+      "preparationAvantStage": "Il est conseillé d'avoir participé à des manoeuvres dans sa caserne d'affectation.",
+      "preRequis": "Avoir suivi le module \"incendie A\".\nEtre apte opérationnel incendie à jour de VMA.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage désigné par l'EDM parmi les formateurs, qui sera Sous-officier Formateur incendie\n2 Formateurs INC (OTR/TEA)\n4 Formateurs INC (OTR/TEA) CMOV CEP\n1 formateur Soutien : Opérateur points feux MAF (OTR)",
+      "tauxSatisfaction": "84.55 %",
+      "nbStagiairesN1": "146",
       "sessions": [
         {
           "nomShort": "FI EQUIPIER INC B",
@@ -2431,6 +2718,13 @@
       "nbPlaces": "24",
       "publicConcerne": "JSP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "93.54 %",
+      "nbStagiairesN1": "134",
       "sessions": [
         {
           "nomShort": "COMP MEA/PPBE",
@@ -2503,6 +2797,13 @@
       "nbPlaces": "18",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "FI EQUIPIER module protection des personnes, des biens et de l'environnement",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir réalisé une FI SMS au premier jour du stage.\nAvoir formulé son consentement PPBE dans GEEF.",
+      "objectif": "",
+      "niveauEncadrement": "1 Responsable de stage désigné par le GFOR parmi les formateurs, qui sera Sous-officier et FOR ACC ou ACC PROX\n3 formateurs PPBE\n1 vétérinaire jour à définir\n3 formateurs tronçonneuse le J2",
+      "tauxSatisfaction": "87.70 %",
+      "nbStagiairesN1": "125",
       "sessions": [
         {
           "nomShort": "FI EQUIPIER PPBE",
@@ -2583,6 +2884,13 @@
       "nbPlaces": "16",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "Prendre connaissance de la FOAD disponible sur AT ENA avant le premier jour de la formation.",
+      "preRequis": "Être équipier SUAP\nAvoir formulé son consentement via GEEF.\nAvoir réalisé le parcours adapté opérationnel (PAO) incendie dans le temps imparti.\nÊtre apte médical aux emplois d'équipier incendie\nAvoir pris connaissance de la FOAD avant le 1er jour du stage.",
+      "objectif": "",
+      "niveauEncadrement": "1 Responsable de stage sous-officier accompagnateur de proximité ou FOR ACC\n4 formateurs aux bases incendie",
+      "tauxSatisfaction": "85.70 %",
+      "nbStagiairesN1": "18",
       "sessions": [
         {
           "nomShort": "FI SMS",
@@ -2671,6 +2979,13 @@
       "nbPlaces": "18",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Équipier secours routier",
+      "preparationAvantStage": "Pour la préparation de votre stage en présentiel, il est recommandé de réaliser la FOAD équipier SR. Vous la trouverez  sur votre espace de formation sur AT ENA.",
+      "preRequis": "Avoir suivi et validé le module \"équipier SUAP\".\nAvoir suivi et validé le module \"équipier INC\"\nÊtre affecté dans une caserne disposant d'un moyen FSR.\nÊtre apte médicalement.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique (FSR)\n1 formateur SR pour 6 stagiaires",
+      "tauxSatisfaction": "90.81 %",
+      "nbStagiairesN1": "28",
       "sessions": [
         {
           "nomShort": "FI EQUIPIER SR",
@@ -2703,6 +3018,13 @@
       "nbPlaces": "18",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Équipier abordage SR",
+      "preparationAvantStage": "Pour la préparation de votre stage en présentiel, il est recommandé de réaliser la FOAD équipier SR. Vous la trouverez  sur votre espace de formation sur AT ENA.",
+      "preRequis": "Avoir suivi et validé le module \"équipier SUAP\" et le module \"équipier incendie\".\nÊtre affecté dans une caserne disposant de matériel de secours routiers FPTASR ou FPT et RSR.\nÊtre apte médicalement.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable d'encadrement (FSR).\n1 formateur SR pour 6 stagiaires.",
+      "tauxSatisfaction": "89.39 %",
+      "nbStagiairesN1": "82",
       "sessions": [
         {
           "nomShort": "FI EQUIPIER SR LOT ABORDAGE",
@@ -2775,6 +3097,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Chef d'équipe incendie",
+      "preparationAvantStage": "Maitriser les techniques de l'équipier.\nIl est conseillé de participer à des man¿uvres dans sa caserne d'affectation.\nPrendre connaissance de la FOAD disponible dans ATENA avant le premier jour de la formation.",
+      "preRequis": "Être apte médicalement. \nÊtre équipier incendie",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage INC : Formateur INC (OTR/TEA)\n3 Formateurs INC (OTR/TEA) CMOV CEP\n1 Formateur INC (OTR/TEA) CMOV ECH\n1 formateur Soutien : Opérateur points feux MAF (OTR) le J3 et le J4",
+      "tauxSatisfaction": "80.81 %",
+      "nbStagiairesN1": "184",
       "sessions": [
         {
           "nomShort": "CE V",
@@ -2871,6 +3200,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "Maitriser les techniques du chef d'équipe SPV.\nIl est conseillé d'avoir participé à des manoeuvres dans sa caserne d'affectation.",
+      "preRequis": "Etre apte médicalement. \nEtre sergent de sapeur-pompier volontaire ou remplissant les conditions de nomination au grade.\nPrérequis indispensable pour accéder aux stages CA1 V PPBE et CA1 V SUAP.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "116",
       "sessions": [
         {
           "nomShort": "CA1 V CADRE INTERVENTION",
@@ -2903,6 +3239,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Chef d'agrès une équipe SUAP",
+      "preparationAvantStage": "Maitriser les techniques du chef d'équipe SPV.\nMaitriser les techniques SUAP.\nIl est conseillé d'avoir participé à des manoeuvres dans sa caserne d'affectation.",
+      "preRequis": "Etre apte médicalement.\nAvoir réalisé la FOAD cadre d'intervention.\nAvoir suivi la FOAD CA1 V SUAP",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique (FPS CA1V SUAP)\n1 FPS CA1V SUAP pour 6 stagiaires",
+      "tauxSatisfaction": "76.41 %",
+      "nbStagiairesN1": "120",
       "sessions": [
         {
           "nomShort": "CA1 V SUAP",
@@ -2999,6 +3342,13 @@
       "nbPlaces": "4",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "CA1 V MEA",
+      "preparationAvantStage": "Avant le début du stage, il est recommandé au stagiaire de participer à une phase tutorée en caserne à la suite du stage CA1V PPBE afin d'appréhender les spécificités des interventions réalisables au moyen d'un MEA.",
+      "preRequis": "Avoir suivi la FOAD CA1 V, le CA1 V PPBE et le CA1 V SUAP.\nÊtre sergent de SPV ou remplissant les conditions de nomination au grade.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage INC : Formateur INC (OTR/TEA) CA TTE\n1 Formateur INC (OTR/TEA) Chef d'agrès MEA a minima\n1 Formateur ACC PRO Chef d'agrès MEA a minima\n2 formateurs Soutien : Conducteur VL / PL / CEP / ECH / Autre",
+      "tauxSatisfaction": "83.70 %",
+      "nbStagiairesN1": "45",
       "sessions": [
         {
           "nomShort": "CA1 V MEA",
@@ -3119,6 +3469,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "CA1 V Protection des personnes, des biens et de l'environnement",
+      "preparationAvantStage": "Maitriser les techniques du chef d'équipe SPV.\nIl est conseillé d'avoir participé à des manoeuvres dans sa caserne d'affectation.",
+      "preRequis": "Etre équipier PPBE SPV et avoir suivi la FOAD CA1 V cadre d'intervention.\nÊtre sergent de SPV ou remplissant les conditions de nomination au grade.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage PPBE : sous-officier FOR ACC ou ACC PROX\n1 Formateur aux bases incendie CMOV ECH\n2 Formateurs PPBE",
+      "tauxSatisfaction": "86.12 %",
+      "nbStagiairesN1": "71",
       "sessions": [
         {
           "nomShort": "CA1 V PPBE",
@@ -3191,6 +3548,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Chef d'agrès une équipe SR",
+      "preparationAvantStage": "Maitriser les techniques du chef d'équipe SPV.\nMaitriser les techniques SUAP et SR.\nIl est conseillé d'avoir participé à des manoeuvres dans sa caserne d'affectation.\nPour la préparation de votre stage en présentiel, il est recommandé de réaliser la FOAD CA1 V SR. Vous la trouverez  sur votre espace de formation sur AT ENA.",
+      "preRequis": "Être apte médicalement.\nÊtre sergent de sapeur-pompier volontaire.\nAvoir suivi et validé le module CA1 V SUAP et équipier SR.\nÊtre affecté dans une caserne dotée d'un FSR ou être dans un processus d'avancement pour devenir CA TTE.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique (FSR)\n1 FSR pour 6 stagiaires",
+      "tauxSatisfaction": "82.71 %",
+      "nbStagiairesN1": "22",
       "sessions": [
         {
           "nomShort": "CA1 V SR",
@@ -3223,6 +3587,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Se former aux techniques de secours routier sur un format de 4 jours + 1 FOAD 8h pour les SPV n'ayant pas de moyen SR dans le centre et inscrit au stage CA TTE. \nÊtre Sergent et être validé sur un stage chef d'agrès toute engin.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "9",
       "sessions": [
         {
           "nomShort": "PASS CA SR ADJ",
@@ -3247,6 +3618,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Chef d'agrès tout-engin SPV",
+      "preparationAvantStage": "Maitriser les techniques du chef d'agrès à une équipe SPV.\nIl est conseillé d'avoir participé à des man¿uvres dans sa caserne d'affectation.\nIl est conseillé d'avoir suivi la PREPA CA TTE V et la FOAD CA TTE.",
+      "preRequis": "Être apte médicalement.\nÊtre adjudant de SPV ou remplissant les conditions de nomination au grade.\nêtre titulaire du CE V INC.\nêtre titulaire du CA1 V SUAP, PPBE, SR et MEA.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable adjudant à minima CA TTE INC : Formateur INC (OTR/TEA)\n4 formateurs INC adjudant à minima : Formateur INC (OTR/TEA)\n1 formateur SIM : Debriefeur le J3.\n1 formateur SIM : Animateur 3 D le J3\n1 formateur soutien : DIREX Gaz le J5 matin\n2 formateurs Soutien : Opérateur aire Gaz  le J5 matin\n1 formateur Soutien : Opérateur points feux MAF (OTR) le J1\n1 formateur Officier chef de groupe de J6 à J10.",
+      "tauxSatisfaction": "85.41 %",
+      "nbStagiairesN1": "40",
       "sessions": [
         {
           "nomShort": "CA TTE V",
@@ -3287,6 +3665,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "Il vous est demandé de réaliser la FOAD CA TTE V  accessible sur AT ENA  .\nMaitriser les techniques du chef d'agrès à une équipe SPV.\nIl est conseillé d'avoir participé à des man¿uvres dans sa caserne d'affectation.",
+      "preRequis": "Être apte médicalement.\nÊtre adjudant de SPV ou remplissant les conditions de nomination au grade.\nêtre titulaire du CE V INC.\nêtre titulaire du CA1 V SUAP, PPBE, SR et MEA.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage INC : Formateur INC (OTR/TEA) désigné par l'EDM parmi les formateurs\n2 formateurs INC : Formateur INC (OTR/TEA)\n1 formateur Soutien : Opérateur points feux MAF (OTR)",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "30",
       "sessions": [
         {
           "nomShort": "PREPA CA TTE SPV",
@@ -3327,6 +3712,13 @@
       "nbPlaces": "5",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre adjudant sapeur-pompier professionnel.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage  formateur permanent OTR/TEA adjudant\n6 formateurs OTR titulaires de la formation de CA TTE ou équivalent.",
+      "tauxSatisfaction": "86.45 %",
+      "nbStagiairesN1": "209",
       "sessions": [
         {
           "nomShort": "FMPA CA TTE P",
@@ -3615,6 +4007,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre adjudant sapeur-pompier volontaire et titulaire de la formation de chef d'agrès tout-engin.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique formateur INC (OTR/TEA)\n4 formateurs INC (OTR/TEA)\n1 Formateur : soutien opérateur points feux MAF",
+      "tauxSatisfaction": "88.44 %",
+      "nbStagiairesN1": "64",
       "sessions": [
         {
           "nomShort": "FMPA CA TTE V",
@@ -3687,6 +4086,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "Maitriser les techniques secours-routier.",
+      "preRequis": "Être apte médicalement.\nAvoir les fonctions de chef d'agrès SR.\nDisposer d'un FSR dans sa caserne.\nRecyclage annuel à l'EDM.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique (FSR)\n1 FSR pour 6 stagiaires",
+      "tauxSatisfaction": "91.25 %",
+      "nbStagiairesN1": "50",
       "sessions": [
         {
           "nomShort": "FMPA CA1 FSR SPV",
@@ -3751,6 +4157,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "Maitriser les techniques secours-routier.",
+      "preRequis": "Être apte médicalement.\nAvoir les fonctions de chef d'agrès SR.\nSi SPV, disposer d'un moyen FSR dans sa caserne.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique (FSR)\n1 FSR pour 6 stagiaires",
+      "tauxSatisfaction": "84.46 %",
+      "nbStagiairesN1": "469",
       "sessions": [
         {
           "nomShort": "FMPA CA1 SR",
@@ -4191,6 +4604,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre chef d'agrès SUAP.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable pédagogique FPS\n1 FPS pour 6 stagiaires",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "570",
       "sessions": [
         {
           "nomShort": "FMPA CA1 SUAP",
@@ -4215,6 +4635,13 @@
       "nbPlaces": "13",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre sapeur-pompier professionnel apte opérationnel incendie.\nLa FMPA EQ_CE INC est obligatoire pour les SPPNO",
+      "objectif": "",
+      "niveauEncadrement": "1 Responsable de stage OTR/TEA\n1 FOR OTR pour 4 stagiaires.",
+      "tauxSatisfaction": "85.51 %",
+      "nbStagiairesN1": "308",
       "sessions": [
         {
           "nomShort": "FMPA EQ_CE INC",
@@ -4503,6 +4930,13 @@
       "nbPlaces": "24",
       "publicConcerne": "SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre sapeur-pompier volontaire apte opérationnel incendie.\nLa FMPA EQ_CE INC est triennale au GFOR pour les SPV.",
+      "objectif": "",
+      "niveauEncadrement": "1 Responsable pédagogique (formateur GFOR) FOR incendie (OTR/TEA)\n1 Formateur INC (OTR/TEA) pour 6 stagiaires.\n1 Formateur Soutien : opérateur points feux MAF",
+      "tauxSatisfaction": "90.71 %",
+      "nbStagiairesN1": "207",
       "sessions": [
         {
           "nomShort": "FMPA EQ_CE INC SPV",
@@ -4615,6 +5049,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre sapeur-pompier professionnel apte opérationnel SR.\nSi SPV, disposer d'un FSR dans sa caserne d'affectation.",
+      "objectif": "Aire SR complète.",
+      "niveauEncadrement": "1 responsable pédagogique (FSR)\n1 formateur SR pour 6 stagiaires",
+      "tauxSatisfaction": "83.94 %",
+      "nbStagiairesN1": "171",
       "sessions": [
         {
           "nomShort": "FMPA EQ_CE SR",
@@ -4783,6 +5224,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre sapeur-pompier volontaire apte opérationnel SR.\nDisposer d'un moyen FSR dans sa caserne.\nRéaliser à minima cette FMPA à l'EDM tous les 3 ans.",
+      "objectif": "Aire SR complète.",
+      "niveauEncadrement": "1 responsable pédagogique (FSR)\n1 formateur SR pour 6 stagiaires",
+      "tauxSatisfaction": "90.90 %",
+      "nbStagiairesN1": "182",
       "sessions": [
         {
           "nomShort": "FMPA EQ_CE SR SPV",
@@ -4855,6 +5303,13 @@
       "nbPlaces": "16",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "87.39 %",
+      "nbStagiairesN1": "158",
       "sessions": [
         {
           "nomShort": "FMPA GOC/TOP CA TTE P",
@@ -4959,6 +5414,13 @@
       "nbPlaces": "14",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Être apte opérationnel .",
+      "objectif": "",
+      "niveauEncadrement": "Défini par le GFOR.",
+      "tauxSatisfaction": "87.06 %",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "FMPA RISQ ELEC",
@@ -5015,6 +5477,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre adjudant sapeur-pompier professionnel.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage  formateur permanent OTR/TEA adjudant\n2 formateurs OTR titulaires de la formation de CA TTE ou équivalent\n1 formateur SIM animateur 3D\n1 formateur SIM débriefeur",
+      "tauxSatisfaction": "87.49 %",
+      "nbStagiairesN1": "105",
       "sessions": [
         {
           "nomShort": "FMPA SIMU CA TTE P",
@@ -5143,6 +5612,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir suivi la formation FMPA Situations agressives 1.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "87.50 %",
+      "nbStagiairesN1": "31",
       "sessions": [
         {
           "nomShort": "FMPA SITUATIONS AGRESSIVES 2",
@@ -5175,6 +5651,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre inscrit sur la liste d'aptitude opérationnelle départementale des officiers aptes à tenir l'emploi de chef de site.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "23",
       "sessions": [
         {
           "nomShort": "FMPA CDS module 1",
@@ -5207,6 +5690,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre inscrit sur la liste d'aptitude opérationnelle départementale des officiers aptes à tenir l'emploi de chef de site.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "93.57 %",
+      "nbStagiairesN1": "30",
       "sessions": [
         {
           "nomShort": "FMPA CDS module 2",
@@ -5239,6 +5729,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre inscrit sur la liste d'aptitude opérationnelle départementale des officiers aptes à tenir l'emploi de chef de site.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "90.49 %",
+      "nbStagiairesN1": "22",
       "sessions": [
         {
           "nomShort": "FMPA CDS module 3",
@@ -5271,6 +5768,13 @@
       "nbPlaces": "2",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "89.29 %",
+      "nbStagiairesN1": "28",
       "sessions": [
         {
           "nomShort": "FMPA SIMU GOC CDC-CDS SPP",
@@ -5423,6 +5927,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "86.03 %",
+      "nbStagiairesN1": "65",
       "sessions": [
         {
           "nomShort": "FMPA SIMU GOC CDG SPP",
@@ -5575,6 +6086,13 @@
       "nbPlaces": "25",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "92.54 %",
+      "nbStagiairesN1": "126",
       "sessions": [
         {
           "nomShort": "J SUAP OFF SPP",
@@ -5671,6 +6189,13 @@
       "nbPlaces": "3",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "CMOV BEA",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'unité de valeur COD1 ou CMOV CEP depuis plus de 2 ans et être affecté dans une caserne dotée d'un BEA.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "2 formateurs CMOV BEA pour 3 stagiaires.",
+      "tauxSatisfaction": "89.17 %",
+      "nbStagiairesN1": "3",
       "sessions": [
         {
           "nomShort": "CMOV BEA",
@@ -5695,6 +6220,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "CMOV CEP",
+      "preparationAvantStage": "",
+      "preRequis": "Être titulaire du permis C en cours de validité lors de l'inscription.\nÊtre titulaire de l'UV équipier INC\nÊtre conducteur de véhicules opérationnels de -3,5 tonnes (CVO ou CMOV TC)\nValidation des inscriptions par le chef de la spécialité conduite.",
+      "objectif": "FPT de la caserne de _ récupéré par _\nFPT de la caserne de _ récupéré par _\nFPT de la caserne de _ récupéré par _\nMEA de la caserne de _ \nCCI de la caserne de _\nPC + Vidéo projecteur de la caserne de _\nLe responsable de stage prendra contact avec les casernements pour l'organisation d'acheminement des véhicules.\nLe responsable de stage est chargé de définir les modalités de mise à disposition du ou des engins en liaison avec le CODIS.",
+      "niveauEncadrement": "3 formateurs COD : formateur CMOV CEP pour 6 à 10 stagiaires.",
+      "tauxSatisfaction": "88.83 %",
+      "nbStagiairesN1": "48",
       "sessions": [
         {
           "nomShort": "CMOV CEP",
@@ -5775,6 +6307,13 @@
       "nbPlaces": "3",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "CMOV ECH",
+      "preparationAvantStage": "",
+      "preRequis": "Etre CMOV EPSA ou venir par voie de mutation d'un autre service d'incendie et de secours.\nEtre titulaire du permis C en cours de validité.\nPassage d'un MEA sans nacelle à un MEA avec nacelle.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "EPC de la caserne de _ récupéré par _\nVFI de la caserne de _ récupéré par _\nPC + Vidéo projecteur de la caserne de _\nLes types de véhicules suivant seront utilisés ponctuellement pendant le stage.\nLe responsable de stage est chargé de définir les modalités de mise à disposition du ou des engins en liaison avec le CODIS.",
+      "niveauEncadrement": "1 FOR CMOV ECH pour 3 stagiaires.",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "54",
       "sessions": [
         {
           "nomShort": "CMOV COMP ECH",
@@ -5807,6 +6346,13 @@
       "nbPlaces": "3",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "CMOV ECH",
+      "preparationAvantStage": "",
+      "preRequis": "Être titulaire de l'unité de valeur COD1 ou CMOV CEP depuis plus de deux ans et être affecté dans une caserne équipée d'une échelle avec dispositif de sauvetage.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "EPC de la caserne de _ récupéré par _\nVFI de la caserne de _ récupéré par _\nPC + Vidéo projecteur de la caserne de _\nLes types de véhicules suivant seront utilisés ponctuellement pendant le stage.\nLe responsable de stage est chargé de définir les modalités de mise à disposition du ou des engins en liaison avec le CODIS.",
+      "niveauEncadrement": "1 FOR CMOV ECH pour 3 stagiaires.",
+      "tauxSatisfaction": "96.31 %",
+      "nbStagiairesN1": "29",
       "sessions": [
         {
           "nomShort": "CMOV ECH mention ADS",
@@ -5879,6 +6425,13 @@
       "nbPlaces": "3",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "CMOV EPSA",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'unité de valeur COD1 ou CMOV CEP depuis plus de deux ans et être affecté dans une caserne équipée d'une échelle sans dispositif de sauvetage.\nEtre titulaire du permis C en cours de validité.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "EPSA de la caserne de _ récupéré par _\nVFI de la caserne de _ récupéré par _\nPC + Vidéoprojecteur de la caserne de _\nLes types de véhicules suivant seront utilisés ponctuellement pendant le stage.\nLe responsable de stage est chargé de définir les modalités de mise à disposition du ou des engins en liaison avec le CODIS.",
+      "niveauEncadrement": "1 FOR CMOV ECH pour 3 stagiaires.",
+      "tauxSatisfaction": "97.08 %",
+      "nbStagiairesN1": "2",
       "sessions": [
         {
           "nomShort": "CMOV ECH mention SDS",
@@ -5911,6 +6464,13 @@
       "nbPlaces": "4",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'unité de valeur COD1 ou CMOV CEP depuis plus de 2 ans.\nEtre titulaire du permis C en cours de validité.\nEtre affecté dans une caserne équipée de ce type de véhicule.\nValidation des inscriptions par le chef de la spécialité conduite.",
+      "objectif": "FMOGP de la caserne de _ récupéré par _\nVFI de la caserne de _ récupéré par _\nCEEM de la caserne de _ récupéré par _ (J2 et J3)\nPC + Vidéo projecteur de la caserne de _\nLe responsable de stage prendra contact avec les casernements pour l¿organisation d¿acheminement des véhicules.\nLe responsable de stage est chargé de définir les modalités de mise à disposition du ou des engins en liaison avec le CODIS.",
+      "niveauEncadrement": "1 formateur : COD : formateur CMOV FMO pour 4 stagiaires",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "CMOV FMO",
@@ -5959,6 +6519,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "CMOV TC",
+      "preparationAvantStage": "",
+      "preRequis": "Formation pour tous les agents qui souhaitent conduire un véhicule opérationnel.\nEtre équipier SUAP.\nPermis B hors période probatoire (3 ans ou 2 ans si conduite accompagnée).\nPour la conduite VSAV, attestation obligatoire du TARS (taxi, ambulance, ramassage scolaire).\nValidation des inscriptions par le chef de la spécialité conduite.",
+      "objectif": "VTP de la caserne de _ récupéré par _\nVFI de la caserne de _ récupéré par _\n VSAV de la caserne de _ récupéré par _",
+      "niveauEncadrement": "3 formateurs COD : formateur CMOV TC pour 12 stagiaires",
+      "tauxSatisfaction": "90.68 %",
+      "nbStagiairesN1": "276",
       "sessions": [
         {
           "nomShort": "CMOV TC",
@@ -6127,6 +6694,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "CMOV TT VL",
+      "preparationAvantStage": "",
+      "preRequis": "Etre conducteur de véhicules opérationnels de -3,5 tonnes (CVO ou CMOV TC)\nPosséder un véhicule opérationnel de moins de 3,5 tonnes tout terrain dans sa caserne ou être personnel FDF3 ou personnel SSSM.",
+      "objectif": "VFITT du CT de _ acheminé par _\nVFITT  du CT de _ acheminé par _\nVFITT du CT de _ acheminé par _\nVFITT du CT de _ acheminé par _\nVFITT du CT de _ acheminé par _\nVFITT du CT de _ acheminé par _\nVFITT du CT de _ acheminé par _\nLes VFITT doivent être équipées de radios.\nCCFM  du CT _ récupéré par les formateurs J2\nVAT GLOG acheminé par _\nPC + Vidéo projecteur de la spécialité conduite\nCarte carburant de la spécialité conduite\nAttention, les chefs de caserne doivent s'assurer du bon acheminement des véhicules de leur centre et les faire traiter en manoeuvre par le CTA à l'adresse du site. \nLes engins de réserve ne sont acheminés sur le site de manoeuvre que sur demande du responsable pédagogique.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "97.62 %",
+      "nbStagiairesN1": "27",
       "sessions": [
         {
           "nomShort": "CMOV TT VL",
@@ -6167,6 +6741,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "CMOV TT VLPL",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'unité de valeur CMOV CEP et FDF1 à l'inscription.\nEtre titulaire du permis C en cours de validité.\nEtre affecté dans une caserne équipée d'un véhicule opérationnel de plus de 3,5 tonnes tout-terrain.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "CCFM du CT de _ acheminé par _\nCCFM du CT de _ acheminé par _\nCCFM du CT de _ acheminé par _\nCCFM du CT de _ acheminé par _\nCCFM du CT de _ acheminé par _\nCCFM du CT de _ acheminé par _\nCCFM du CT de _ acheminé par _\nVFITT du CT de _ acheminé par _\nVFITT du CT de _ acheminé par _\nLes VFITT doivent être équipées de radio.\nVAT GLOG acheminé par _\nPC + Vidéo projecteur de la spécialité conduite. \nCarte carburant de la spécialité conduite\nLe responsable de stage prendra contact avec les casernements pour l'organisation d'acheminement des véhicules.\nLe responsable de stage est chargé de définir les modalités de mise à disposition du ou des engins en liaison avec le CODIS.",
+      "niveauEncadrement": "7 FOR CMOV TT pour 12 stagiaires",
+      "tauxSatisfaction": "97.50 %",
+      "nbStagiairesN1": "24",
       "sessions": [
         {
           "nomShort": "CMOV TT VLPL",
@@ -6215,6 +6796,13 @@
       "nbPlaces": "5",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "CMOV ECH EPC 30 MA M32L AX\nCMOV ECH EPC 30 ME L32 XS    \nCMOV ECH EPC 30 ME L32          \nCMOV ECH EPC 30 ME DLK         \nCMOV ECH EPC 30 MA     \nCMOV ECH EPS 30 CA      \nCMOV ECH EPS 25 MA     \nCMOV ECH EPSA 24 CA   \nCMOV ECH EPSA 24 RI",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire d'une ou plusieurs unité(s) de valeur CMOV ECH.\nEtre affecté dans une caserne dotée d'une échelle aérienne\nFMPA tous les 3 à 5 ans.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "EPC de la caserne de _ récupéré par _\nVFI de la caserne de _ récupéré par _\nLe responsable de stage est chargé de définir les modalités de mise à disposition du ou des engins en liaison avec le CODIS.",
+      "niveauEncadrement": "1 FOR ECH pour 5 stagiaires.",
+      "tauxSatisfaction": "96.64 %",
+      "nbStagiairesN1": "73",
       "sessions": [
         {
           "nomShort": "FMPA CMOV ECH",
@@ -6391,6 +6979,13 @@
       "nbPlaces": "5",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre COD FMOGP ou CMOV FMO.\nEtre titulaire du permis C en cours de validité.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "FMOGP - CT\nVFI - CT _\nCCEM - CT Lyon Gerland ou si indisponible CEEM de la caserne de Chaponnay\nLes man¿uvres se dérouleront sur le plateau technique de la Raffinerie",
+      "niveauEncadrement": "1 formateur CMOV FMO pour 5 stagiaires.",
+      "tauxSatisfaction": "97.50 %",
+      "nbStagiairesN1": "60",
       "sessions": [
         {
           "nomShort": "FMPA CMOV FMO",
@@ -6543,6 +7138,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "CMOV TT VL",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'unité de valeur COD2 VL ou CMOV TT VL.\nFMPA tous les 3 à 5 ans.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "-\tVFITT ¿ Caserne de _ acheminé par le stagiaire _\n-\tVFITT ¿ Caserne de _ acheminé par le stagiaire _\n-\tVFITT ¿ Caserne de _ acheminé par le stagiaire _\n-\tVFITT ¿ Caserne de _ acheminé par le stagiaire _\n-\tVFITT ¿ Caserne de _ acheminé par le stagiaire _\n-\tVFITT ¿ Caserne de _ acheminé par le stagiaire _\n-\tVFITT ¿ Caserne de _ acheminé par le stagiaire _\nLes VFITT doivent être équipées de radios.\n-\tPC + vidéo projecteur de la spécialité conduite.\nAttention, les chefs de caserne doivent s'assurer du bon acheminement des véhicules de leur centre et les faire traiter en manoeuvre par le CTA à l'adresse du site. \nLes engins de réserve ne sont acheminés sur le site de manoeuvre que sur demande du responsable pédagogique.",
+      "niveauEncadrement": "7 FOR CMOV TT pour 12 stagiaires",
+      "tauxSatisfaction": "98.00 %",
+      "nbStagiairesN1": "38",
       "sessions": [
         {
           "nomShort": "FMPA CMOV TT VL",
@@ -6591,6 +7193,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "CMOV TT VLPL",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'unité de valeur COD2 VLPL ou CMOV TT VLPL.\nFMPA tous les 3 à 5 ans.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "-\tCCFM Caserne de _ acheminé par le stagiaire _\n-\tCCFM Caserne de _ acheminé par le stagiaire _\n-\tCCFM Caserne de _ acheminé par le stagiaire _\n-\tCCFM Caserne de _ acheminé par le stagiaire _\n-\tCCFM Caserne de _ acheminé par le stagiaire _\n-\tCCFM Caserne de _ acheminé par le stagiaire _\n-\tVFITT Caserne de _ acheminé par le formateur _\n-\tVFITT Caserne de _ acheminé par le formateur _\n-\tPC + vidéo projecteur de la spécialité conduite.\nLes VFITT doivent être équipées de radio. \nAttention, les chefs de caserne doivent s¿assurer du bon acheminement des véhicules de leur centre et les faire traiter en manoeuvre par le CTA à l'adresse du site. \nLes engins de réserve ne sont acheminés sur le site de manoeuvre que sur demande du responsable pédagogique.",
+      "niveauEncadrement": "7 formateurs CMOV TT pour 12 stagiaires",
+      "tauxSatisfaction": "96.74 %",
+      "nbStagiairesN1": "47",
       "sessions": [
         {
           "nomShort": "FMPA CMOV TT VL/PL",
@@ -6671,6 +7280,13 @@
       "nbPlaces": "3",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "EPC de la caserne de _ récupéré par _\nVFI de la caserne de _ récupéré par _\nPC + Vidéo projecteur de la caserne de _",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "91.94 %",
+      "nbStagiairesN1": "4",
       "sessions": [
         {
           "nomShort": "FMPA MMOV ECH",
@@ -6695,6 +7311,13 @@
       "nbPlaces": "4",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "MMOV BEA",
+      "preparationAvantStage": "",
+      "preRequis": "Etre affecté dans une caserne dotée d'un BEA.\nEtre chef d'agrès tout-engin\nFormation à destination des agents non CMOV BEA pour la manipulation de la nacelle BEA.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "1 formateur CMOV BEA pour 4 stagiaires.",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "2",
       "sessions": [
         {
           "nomShort": "MMOV BEA",
@@ -6719,6 +7342,13 @@
       "nbPlaces": "3",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "MMOV MA M32L AS\nMMOV MC L32 XS",
+      "preparationAvantStage": "",
+      "preRequis": "Etre affecté dans une caserne dotée d'un MEA avec nacelle.\nEtre chef d'agrès une équipe.\nFormation à destination des agents non écheliers à la manipulation de la nacelle d'une EPC articulée.",
+      "objectif": "EPC de la caserne de _ récupéré par _\nVFI de la caserne de _ récupéré par _\nPC + Vidéo projecteur de la caserne de _\nLes types de véhicules suivant seront utilisés ponctuellement pendant le stage.\nLe responsable de stage est chargé de définir les modalités de mise à disposition du ou des engins en liaison avec le CODIS.",
+      "niveauEncadrement": "1 FOR ECH pour 3 stagiaires",
+      "tauxSatisfaction": "93.38 %",
+      "nbStagiairesN1": "84",
       "sessions": [
         {
           "nomShort": "MMOV ECH",
@@ -6751,6 +7381,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Validation des inscriptions par le chef de la spécialité.\nLa première session de formation CAO CYN ne concerne que les responsables cyno.",
+      "objectif": "1 VFI (caserne de Feyzin)\n1 VFI (caserne de Meyzieu)\n2 VL CYN de permanence (conseiller technique et conducteur Cyno)\n2 VCYN (casernes de Feyzin et Meyzieu)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "83.33 %",
+      "nbStagiairesN1": "16",
       "sessions": [
         {
           "nomShort": "CAO CYN",
@@ -6791,6 +7428,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Validation des inscriptions par le chef de la spécialité.",
+      "objectif": "2 VTP (GFOR ou GTER)\n1 CTU (GFOR ou GTER)\n1 Carte (GFOR ou GTER)\n1 Carte (GFOR ou GTER)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "81.04 %",
+      "nbStagiairesN1": "18",
       "sessions": [
         {
           "nomShort": "FMPA EQUIP ANIM",
@@ -6815,6 +7459,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Validation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 VFI (caserne de Feyzin)\n1 VFI (caserne de Meyzieu)\n2 VL CYN de permanence (Conseiller technique et conducteur CYNO)\n2 VCYN (casernes de Feyzin et Meyzieu)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "4",
       "sessions": [
         {
           "nomShort": "RAT CAO CYN",
@@ -6839,6 +7490,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "FDF1",
+      "preparationAvantStage": "",
+      "preRequis": "Etre prioritairement affecté dans une caserne équipée d'un CCFM.\nAvoir validé sa formation initiale et avoir 18 ans minimum.\nIl vous est fortement demandé de prendre connaissance de votre guide de man¿uvre et votre fascicule FDF1 accessible sur AT ENA. .\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "VFITT : Caserne de X acheminé par X \nVFITT : Caserne de X acheminé par X \nVFITT: Caserne de X acheminé par X\nVFITT: Caserne de X acheminé par X\nVFITT: Caserne de X acheminé par X\nVFITT de réserve : Caserne de X\nCCFM : Caserne de X acheminé par X \nCCFM : Caserne de X acheminé par X\nCCFM : Caserne de X acheminé par X\nCCFM : Caserne de X acheminé par X \nCCFM de réserve : Caserne de X\nCTUT avec lot FDF1 et 2 (GFOR) acheminé par X\nLot surpantalons (GFOR)\n3 radios ANTARES (GFOR)\nLes CS doivent veiller à retirer les casques F2 des engins.\nLot SAP (SDS)\n10 packs d'eau (GFOR)\n1 carte autoroute (GFOR)\n1 carte essence (GFOR)\nPC portable + vidéo (GFOR)\nAttention, les chefs de caserne doivent s¿assurer du bon acheminement des véhicules de leur centre et les faire traiter en man¿uvre par le CTA à l¿adresse du site.\nLes engins de réserve ne sont acheminés sur le site de man¿uvre que sur demande du responsable pédagogique.\nLes surpantalons utilisés seront référencés, identifiés et stockés en sac pour lavage.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "90.89 %",
+      "nbStagiairesN1": "61",
       "sessions": [
         {
           "nomShort": "FDFEN1",
@@ -6919,6 +7577,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "FDF2",
+      "preparationAvantStage": "",
+      "preRequis": "Etre prioritairement affecté dans une caserne équipée d'un CCFM.\nEtre titulaire du FDF1,être au minimum sergent et être titulaire de la FAE chef d'agrès à une équipe.\nIl vous est fortement demandé de prendre connaissance de votre guide de man¿uvre et votre fascicule FDF2 accessible sur AT ENA.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "86.75 %",
+      "nbStagiairesN1": "34",
       "sessions": [
         {
           "nomShort": "FDFEN2",
@@ -6999,6 +7664,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "FDF3",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir validé la présélection FDF3.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "VFITT: Caserne de X acheminé par X\nVFITT : Caserne de X acheminé par X\nVFITT : Caserne de X acheminé par X\nVFITT : Caserne de X acheminé par X\nVFITT : Acheminé par le SDIS X\nVFITT : Acheminé par le SDIS X\nVFITT de réserve : Caserne de X\nCCFM : Caserne de X acheminé par X\nCCFM : Caserne de X acheminé par X\nCCFM : Caserne de X acheminé par X\nCCFM : Caserne de X acheminé par X\nCCFM : Caserne de X acheminé par X\nCCFM : Caserne de X acheminé par X\nCCFM : Caserne de X acheminé par X\nCCFM : Caserne de X acheminé par X\nCCFM de réserve : Caserne de X\nChaque engin doit venir avec un poste portatif identifié type TPH 700.\n1 VCARB CT LOG acheminé par X\n1 CTU avec lot FDF2 (GFOR) acheminé par X\n1 PC portable + 1 Vidéo projecteur + 1 rallonge\n5 packs d'eau (GFOR)\n1 Carte autoroute (GFOR)\n1 Carte essence (GFOR)\nCarte secteur + atlas (GFOR)\nLot SAP (SDS)\nAttention, les chefs de caserne doivent s¿assurer du bon acheminement des véhicules de leur centre et les faire traiter en man¿uvre par le CTA à l¿adresse du site.\nLes engins de réserve ne sont acheminés sur le site de man¿uvre que sur demande du responsable pédagogique.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "2",
       "sessions": [
         {
           "nomShort": "FDFEN3",
@@ -7023,6 +7695,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "VPC de formation\n1 Lot Antares (GFOR)\n7 PC portable (dotation GSI)\nKit téléphone/radio ECASC",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "32",
       "sessions": [
         {
           "nomShort": "FMPA FDFEN3 SIMU",
@@ -7063,6 +7742,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du FDF3 ou du FDF4.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "VFITT : Caserne de X acheminé par X \nVFITT : Caserne de X acheminé par X\nVFITT : Caserne de X acheminé par X\nVFITT : Caserne de X acheminé par X \nVFITT : Caserne de X acheminé par X\nVFITT : Caserne de X acheminé par X\nChaque engin doit venir avec un poste portatif identifié type TPH 700.\n2 VTP (GFOR)\n2 cartes essence et autoroute (GFOR)\n2 Packs d'eau (GFOR)\n1 valise 80mgh 6 postes (GFOR)\n2 lots ANTARES (GFOR)\nAttention, les chefs de caserne doivent s¿assurer du bon acheminement des véhicules de leur centre et les faire traiter en man¿uvre par le CTA à l¿adresse du site. \nLes engins de réserve ne sont acheminés sur le site de man¿uvre que sur demande du responsable pédagogique.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "21",
       "sessions": [
         {
           "nomShort": "FMPA FDFEN3-4 TERRAIN",
@@ -7095,6 +7781,13 @@
       "nbPlaces": "20",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir l'emploi de chef de groupe depuis 2 ans.\nÊtre titulaire du CMOV TTVL.\nÊtre Accompagnateur de proximité.\nCette présélection est valable sur l'année civile de réussite.\nLa liste est établie par le responsable de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "Etre FDF2.\nEtre chef de groupe sur liste d'aptitude opérationnelle départementale.",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "11",
       "sessions": [
         {
           "nomShort": "PRES FDFEN3",
@@ -7119,6 +7812,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Validation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 VTP (GFOR)\nLot GRES (GFOR)\n6 radio + 2 Holster (GFOR)\nCaserne Rochat : X EPB + X brancards + 1 valise de plots\nCaserne La Duchère :  X EPB + X brancards + 1 valise de plots",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "68.33 %",
+      "nbStagiairesN1": "88",
       "sessions": [
         {
           "nomShort": "CDG EXTRAC/GRES",
@@ -7151,6 +7851,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Validation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 VTP (GFOR)\nLot GRES (GFOR)\n6 radio + 2 Holster (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "94.44 %",
+      "nbStagiairesN1": "29",
       "sessions": [
         {
           "nomShort": "EQ/CE EXTRAC/GRES",
@@ -7183,6 +7890,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "1 VTP (GFOR)\nLot GRES (GFOR)\n6 radio + 2 Holster (GFOR)\nCaserne Rochat : X EPB + X brancards + 1 valise de plots\nCaserne La Duchère :  X EPB + X brancards + 1 valise de plots",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "76.67 %",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "FMPA CDG EXTRAC/GRES",
@@ -7271,6 +7985,13 @@
       "nbPlaces": "24",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "1 VTP (GFOR)\nLot GRES (GFOR)\n6 radio + 2 Holster (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "47.48 %",
+      "nbStagiairesN1": "105",
       "sessions": [
         {
           "nomShort": "FMPA EQ/CE EXTRAC/GRES",
@@ -7367,6 +8088,13 @@
       "nbPlaces": "16",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "1 VTP (GFOR)\nLot GRES (GFOR)\n6 radio + 2 Holster (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "FMPA REF CASERNE EXTRAC/GRES 1",
@@ -7399,6 +8127,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "1 VTP (GFOR)\nLot GRES (GFOR)\n6 radio + 2 Holster (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "5",
       "sessions": [
         {
           "nomShort": "REF CASERNE EXTRAC / GRES",
@@ -7423,6 +8158,13 @@
       "nbPlaces": "14",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "91.29 %",
+      "nbStagiairesN1": "216",
       "sessions": [
         {
           "nomShort": "FMPA IMP 1J",
@@ -7775,6 +8517,13 @@
       "nbPlaces": "14",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "97.50 %",
+      "nbStagiairesN1": "29",
       "sessions": [
         {
           "nomShort": "FMPA IMP 3J",
@@ -7839,6 +8588,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "95.00 %",
+      "nbStagiairesN1": "14",
       "sessions": [
         {
           "nomShort": "FMPA IMP3 CAN",
@@ -7871,6 +8627,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "94.17 %",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "FMPA IMP3 NEIGE",
@@ -7903,6 +8666,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "26",
       "sessions": [
         {
           "nomShort": "FMPA IMP3 TOP 01",
@@ -7935,6 +8705,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "100.00 %",
+      "nbStagiairesN1": "9",
       "sessions": [
         {
           "nomShort": "FMPA IMP3 TOP 02",
@@ -7967,6 +8744,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "FMPA IMP3 USSH MED",
@@ -7999,6 +8783,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "VTP 9 places (Villeurbanne-Cusset)\nVIMP (Caserne de Villeurbanne Cusset + de Villeurbanne La Doua)\n1 lot SUAP (EDM)\nSites de man¿uvre : maison SD (EDM) le dernier jour du stage\n1 lot SAP (GFOR)\nSites de manoeuvre : maison SD (GFOR) les X et X/XX/XXXX\n3 Packs d'eau (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "5",
       "sessions": [
         {
           "nomShort": "IMP1",
@@ -8023,6 +8814,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "VTP 9 places n° X (GFOR)\nVTP 9 places n° X (GFOR)\nVIMP (Caserne de Villeurbanne Cusset ou de Villeurbanne La Doua, en fonction de l'IMP3 de garde)\n1 lot SAP (GFOR)\nSites de manoeuvre : maison SD (GFOR) les X et X/XX/XXXX\n3 Packs d'eau (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "7",
       "sessions": [
         {
           "nomShort": "PREPA IMP2",
@@ -8047,6 +8845,13 @@
       "nbPlaces": "16",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Maitrise des notions d'escalade.\nSavoir évoluer sur une corde \"montée et descente\".\nAppréhension du vide.\nTests cardiaux.\nÉpreuves physiques.",
+      "objectif": "VTP (Villeurbanne-Cusset)\n2 VIMP armés par les gardes opérationnelles du jour validées dans la GDA \"Gestion des Activités\" Centres de Villeurbanne-Cusset et Villeurbanne-La Doua\nSalle de cours Villeurbanne-Cusset",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "13",
       "sessions": [
         {
           "nomShort": "PRES IMP1",
@@ -8071,6 +8876,13 @@
       "nbPlaces": "5",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "3",
       "sessions": [
         {
           "nomShort": "PRES IMP3",
@@ -8095,6 +8907,13 @@
       "nbPlaces": "3",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre logisticien MC.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "Salle de cours « local MC » caserne de _\n1 salle de cours caserne de _",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "98.33 %",
+      "nbStagiairesN1": "39",
       "sessions": [
         {
           "nomShort": "FMPA LOG MC",
@@ -8215,6 +9034,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "MC1 ou MC2",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du MC1 ou MC2.\nAptitude médicale.",
+      "objectif": "1 FPT (GFOR)\n1 VTP (GCO)\n1 FMC caserne de _",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "86.59 %",
+      "nbStagiairesN1": "106",
       "sessions": [
         {
           "nomShort": "FMPA MC1-2",
@@ -8327,6 +9153,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "94.17 %",
+      "nbStagiairesN1": "26",
       "sessions": [
         {
           "nomShort": "FMPA MC1-2 SIMULATEUR FEU",
@@ -8367,6 +9200,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du MC3.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "2 VTP (GFOR)\n1 salle de cours (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "91.67 %",
+      "nbStagiairesN1": "32",
       "sessions": [
         {
           "nomShort": "FMPA MC3",
@@ -8407,6 +9247,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Logisticien MC.",
+      "preparationAvantStage": "",
+      "preRequis": "Validation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 VTP (GCO)\nSalle de cours « local MC » caserne de _\nSalle de cours caserne de _",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "5",
       "sessions": [
         {
           "nomShort": "LOG MC",
@@ -8431,6 +9278,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "MC1",
+      "preparationAvantStage": "",
+      "preRequis": "Aptitude médicale et affectation dans une caserne concernée (Lyon Rochat, Lyon Duchère, Lyon Corneille). \nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 FPT (GFOR)\n1 VTP (GFOR)\n1 VTP (GCO)\n1 FMC Caserne de _\nAire parc de stationnement couvert (GFOR)\nAire maison à feu (GFOR)\nAire station de métro (GFOR)\n2 Salles de cours (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "88.21 %",
+      "nbStagiairesN1": "18",
       "sessions": [
         {
           "nomShort": "MC1",
@@ -8463,6 +9317,13 @@
       "nbPlaces": "8",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "MC2",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du MC1, du diplôme de chef d'agrès tout engin.\nAptitude médicale et affectation dans une caserne concernée (Lyon Rochat, Lyon Duchère, Lyon Corneille ou Tassin).\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 FPT (GFOR)\n1 VTP (GFOR)\n1 VTP (GCO)\n1 FMC Caserne de _\nAire parc de stationnement couvert (GFOR)\nAire maison à feu (GFOR)\nAire station de métro (GFOR)\n2 Salles de cours (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "84.79 %",
+      "nbStagiairesN1": "9",
       "sessions": [
         {
           "nomShort": "MC2",
@@ -8495,6 +9356,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "MC3",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du MC2 et CDG ou emploi C-métier au titre de la spécialité MC, affecté dans une caserne concernée (Lyon Rochat, Lyon Duchère, Lyon Corneille ou Tassin).\nAptitude médicale.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 salle de cours (GFOR) pour les 5 jours\n1 VTP (GFOR) les 2 derniers jours\n2 salles de cours ou salles de jury (GFOR) les 2 derniers jours pour examen\n1 bureau (GFOR) les 2 derniers jours pour examen",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "95.42 %",
+      "nbStagiairesN1": "8",
       "sessions": [
         {
           "nomShort": "MC3",
@@ -8519,6 +9387,13 @@
       "nbPlaces": "40",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "FMPA obligatoire.\nEtre titulaire de l'unité de valeur PRV2.",
+      "objectif": "Amphithéâtre (GFOR)\nSalle TP 103 Mur SSI (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "95.46 %",
+      "nbStagiairesN1": "117",
       "sessions": [
         {
           "nomShort": "FMPA PRV2 69",
@@ -8567,6 +9442,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du RAD2.\nAptitude médicale et affectation à Lyon Gerland ou Saint-Priest.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "114",
       "sessions": [
         {
           "nomShort": "FMPA RAD2",
@@ -8687,6 +9569,13 @@
       "nbPlaces": "20",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du RAD3.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 salle de cours (GFOR)",
+      "niveauEncadrement": "RAD4",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "41",
       "sessions": [
         {
           "nomShort": "FMPA RAD3",
@@ -8719,6 +9608,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du RAD3.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 salle de cours (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "9",
       "sessions": [
         {
           "nomShort": "FMPA RAD3 GOC",
@@ -8751,6 +9647,13 @@
       "nbPlaces": "16",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "A destination des formateurs RAD et RCH",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "16",
       "sessions": [
         {
           "nomShort": "FOR POOL NRBC",
@@ -8783,6 +9686,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir suivi le RAD2.",
+      "objectif": "2 VTP (GFOR)\nCarte essence",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 3 FOR ACC désigné la spécialité",
+      "tauxSatisfaction": "90.28 %",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "JC RAD2",
@@ -8807,6 +9717,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "RAD1",
+      "preparationAvantStage": "Avoir suivi la journée de préparation RAD3.",
+      "preRequis": "Aptitude médicale + fond d¿¿il réalisé et affectation à Lyon-Gerland ou Saint-Priest.\nL'état de grossesse est un motif de contre-indication absolu.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 CTU (GFOR) du   /  /   au   /  /  .\n1 VTP (GFOR) le   /  /  .\nFNRBC 3 (Caserne de Saint-Priest) du   /  /   au   /  /  .\nPour les aires de man¿uvres, merci de voir avec les autres stages pour l¿accès au plateau technique :\nAire risques technologiques (GFOR) les   /  /  et  /  /  .\nAire maison SD/parcours IMP (GFOR) les   /  /  et  /  /  .",
+      "niveauEncadrement": "RAD4",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "RAD1",
@@ -8831,6 +9748,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "RAD2",
+      "preparationAvantStage": "",
+      "preRequis": "Être titulaire du RAD1.\nAptitude médicale + fond d¿¿il et affectation à Lyon-Gerland ou Saint-Priest.\nL'état de grossesse est un motif de contre-indication absolu.\nCette formation est complétée par la formation JC RAD2.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 CTU (GFOR) du   /  /   au   /  /  .\n1 VTP (GFOR) le   /  /  .\nFNRBC 3 (Caserne de Saint-Priest) du   /  /   au   /  /  .\nPour les aires de man¿uvres, merci de voir avec les autres stages pour l¿accès au plateau technique :\nAire risques technologiques (GFOR) les   /  /  et  /  /  .\nAire maison SD/parcours IMP (GFOR) les   /  /  et  /  /  .",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "86.83 %",
+      "nbStagiairesN1": "20",
       "sessions": [
         {
           "nomShort": "RAD2",
@@ -8855,6 +9779,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "être RCH2 et RAD2 \nêtre titulaire du permis PL\nêtre affecté à la Caserne de Saint-Priest\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "VDIP (caserne de Saint-Priest)\n1 Salle de cours (caserne de Saint-Priest)",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 4 FOR ACC désigné la spécialité\n1 intervenant SDMIS",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "4",
       "sessions": [
         {
           "nomShort": "EQUIPIER DIP 2",
@@ -8879,6 +9810,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "être DIP2\nêtre affecté à la Caserne de Saint-Priest\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "VDIP (caserne de Saint-Priest)",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 4 FOR ACC désigné la spécialité\n1 intervenant SDMIS",
+      "tauxSatisfaction": "98.83 %",
+      "nbStagiairesN1": "8",
       "sessions": [
         {
           "nomShort": "FMPA DIP2",
@@ -8927,6 +9865,13 @@
       "nbPlaces": "20",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Chef de cellule RAD et/ou chef de cellule RCH.",
+      "objectif": "1 Salle de cours (caserne de Saint-Priest)",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 4 FOR ACC désigné la spécialité\n2 formateurs Spé : Formateur/référent spécialité niveau 3",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "7",
       "sessions": [
         {
           "nomShort": "FMPA NRBC-E",
@@ -8959,6 +9904,13 @@
       "nbPlaces": "15",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "être DIP3.",
+      "objectif": "1 Salle de cours (caserne de Saint-Priest)",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 4 FOR ACC désigné la spécialité\n1 formateur INT : Intervenant SDMIS",
+      "tauxSatisfaction": "98.83 %",
+      "nbStagiairesN1": "24",
       "sessions": [
         {
           "nomShort": "FMPA OFF VDIP",
@@ -8991,6 +9943,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du RCH2.\nAptitude médicale et affectation à Lyon-Gerland ou Saint-Priest.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 3 FOR ACC désigné la spécialité\n1 formateur Spé : Formateur/référent spécialité niveau 3",
+      "tauxSatisfaction": "75.00 %",
+      "nbStagiairesN1": "144",
       "sessions": [
         {
           "nomShort": "FMPA RCH2",
@@ -9111,6 +10070,13 @@
       "nbPlaces": "20",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du RCH3.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 salle de cours (GFOR)",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 4 FOR ACC désigné la spécialité\n2 formateurs Spé : Formateur/référent spécialité niveau 4",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "33",
       "sessions": [
         {
           "nomShort": "FMPA RCH3",
@@ -9143,6 +10109,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "1 salle de cours (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "8",
       "sessions": [
         {
           "nomShort": "FMPA RCH3 GOC",
@@ -9175,6 +10148,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Être RCH2 et RAD2. Être chef de groupe",
+      "objectif": "Salle de cours (GFOR)",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 4 FOR ACC désigné la spécialité\n3 formateurs Spé : Formateur/référent spécialité niveau 3",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "PREPA RCH3",
@@ -9199,6 +10179,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "RCH1",
+      "preparationAvantStage": "",
+      "preRequis": "Aptitude médicale et affectation à Lyon-Gerland ou Saint-Priest.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "Salle de cours (GFOR)\nSalle pour l¿examen (GFOR)\n1 CTU (GFOR)\nFPT (GFOR)\nVTP (GFOR)\nAire de risques technologiques (GFOR), les  /  /  et  /  /  .\nAire maison SD / parcours IMP (GFOR), les  /  /  et  /  /  .\nFNRBC 3 (Caserne de Saint-Priest)\nBerce DEPOL (CT Lyon-Gerland)\nLot ARI (GFOR)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "RCH1",
@@ -9223,6 +10210,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "RCH2",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du RCH1.\nAptitude médicale et affectation à Lyon-Gerland ou Saint-Priest.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 FPT (GFOR)\n1 VTP (GFOR)\n1 CTU (GFOR)\n1 VFI (GFOR) \nUMD (GLOG) acheminée par CT LOG sur parvis EDM\nFNRBC 3 (Caserne de Saint-Priest)\nSalle de cours (CT Saint-Priest)\nAire risques technologiques (GFOR), les  /  /  et  /  / \nCEPOL Gerland.",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 3 FOR ACC désigné la spécialité\n3 formateurs Spé : Formateur/référent spécialité niveau 3\n2 formateurs Spé : Formateur/référent spécialité niveau 2",
+      "tauxSatisfaction": "92.62 %",
+      "nbStagiairesN1": "24",
       "sessions": [
         {
           "nomShort": "RCH2",
@@ -9247,6 +10241,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "RCH3",
+      "preparationAvantStage": "",
+      "preRequis": "Etre officier RCH2-accompagnateur de proximité et avoir suivi la journée PREPA RCH3.\nAptitude médicale et affectation à Lyon Gerland ou Saint-Priest.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 FPT (groupement Sud-Est) acheminé par le GSE au GFOR le xx/xx/xxxx et récupéré le xx/xx/xxxx par le ¿¿.\n2 FPT (GFOR)\nFNRBC 2 (caserne de Saint-Priest)\n2 VTP (GFOR)\n1 CTU (GFOR)\n1 VFI (GFOR)\n2 lots ANTARES avec chargeur les 3 semaines (GFOR)\nSalle de cours (GFOR)\n2 salles de cours pour l¿examen (GFOR)\n2 paperboards (GFOR)\nSalle informatique (GFOR)\nAmphithéâtre et parvis (GFOR)\nCarte autoroute et essence pour la totalité du stage (GFOR)\nAire CEPARI (GFOR), les  /  /  et  /  /  .\nAire risques technologiques (GFOR), les  /  /  et  /  /  .\nAire tronçon routier (GFOR), les  /  /  et  /  /  .\n2 machines à fumées (GFOR)\nBerce CEPOL de la caserne de Gerland\nVPC de réserve\nBerce UMD (caserne logistique)\nFSE sans personnel (caserne de Pierre-Bénite)\nVDIP (caserne de Saint-Priest)",
+      "niveauEncadrement": "1 responsable de stage Spé : Formateur/référent spécialité niveau 4 FOR ACC désigné la spécialité\n4 formateurs Spé : Formateur/référent spécialité niveau 3\n2 formateurs Spé : Formateur/référent spécialité niveau 2",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "13",
       "sessions": [
         {
           "nomShort": "RCH3",
@@ -9271,6 +10272,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "COD4 BMS",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir le permis de navigation fluvial en cours de validité.\nEtre dans une caserne équipée d'un BMS.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "BMS + VTBAT (caserne de X)\nBMS + VFITT (caserne de X)\n1 berce DEPOL le xx/xx/xxxx (GLOG)\n1 Lot Prompt secours de la caserne\nSalle de formation avec PC + vidéoprojecteur (caserne de X)\n2 postes radio (caserne de X)\n1 VHF (caserne de X)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "13",
       "sessions": [
         {
           "nomShort": "CEN BMS",
@@ -9295,6 +10303,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "COD4 BPS",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir le permis de navigation fluvial en cours de validité.\nEtre dans une caserne équipée d'un BPS.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "BPS GARON Lyon Confluence\nBPS OZON Lyon GERLAND\n1 berce DEPOL le xx/xx/xxxx (GLOG)\n1 lot SAP Lyon Confluence\nSalle de formation avec PC + vidéoprojecteur Lyon Confluence\n2 postes radio (caserne de X)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "98.75 %",
+      "nbStagiairesN1": "16",
       "sessions": [
         {
           "nomShort": "CEN BPS",
@@ -9335,6 +10350,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir le permis de navigation fluvial en cours de validité.\nEtre dans une caserne équipée d'un BLSP.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "96.09 %",
+      "nbStagiairesN1": "60",
       "sessions": [
         {
           "nomShort": "FMPA CEN",
@@ -9367,6 +10389,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "COD4 BMS",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du COD4 BPS.\nEtre dans une caserne équipée d'un BMS.\nValidation des inscriptions par le chef de spécialité.",
+      "objectif": "BMS + VTBAT (caserne de X)\nBMS + VFITT (caserne de X)\n1 Lot SAP (caserne de X)\n1 salle de cours (caserne de X)\n2 postes radio (caserne de X)\n1 VHF (caserne de X)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "11",
       "sessions": [
         {
           "nomShort": "PAS CEN BMS",
@@ -9399,6 +10428,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du COD4 BMS.\nEtre titulaire du permis fluvial.\nEtre dans une caserne équipée d'un BPS.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "BMS + VTBAT (caserne de X)\nBMS + VFITT (caserne de X)\n1 Lot SAP (caserne de X)\n1 salle de cours (caserne de X)\n2 postes radio (caserne de X)\n1 VHF (caserne de X)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "3",
       "sessions": [
         {
           "nomShort": "PAS CEN BPS",
@@ -9423,6 +10459,13 @@
       "nbPlaces": "14",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "Les tests annuels et FMPA sont une obligation règlementaire pour être inscrit sur la liste d'aptitude opérationnelle départementale des nageurs sauveteurs aquatiques et des scaphandriers autonomes légers.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "11",
       "sessions": [
         {
           "nomShort": "FMPA CT SAV - SAL 3",
@@ -9447,6 +10490,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "12",
       "sessions": [
         {
           "nomShort": "FMPA REF RISQUES AQUATIQUES",
@@ -9471,6 +10521,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "Les tests annuels et FMPA sont une obligation règlementaire pour être inscrit sur la liste d'aptitude opérationnelle départementale des nageurs sauveteurs aquatiques et des scaphandriers autonomes légers.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "16",
       "sessions": [
         {
           "nomShort": "FMPA SAL SNL1",
@@ -9527,6 +10584,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "Les tests annuels et FMPA sont une obligation règlementaire pour être inscrit sur la liste d'aptitude opérationnelle départementale des nageurs sauveteurs aquatiques et des scaphandriers autonomes légers..",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "100.00 %",
+      "nbStagiairesN1": "14",
       "sessions": [
         {
           "nomShort": "FMPA SAL SNL2",
@@ -9567,6 +10631,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "CTU Confluence 1315\nVTP GC 1655\nLe responsable pédagogique doit signaler impérativement tout matériel utilisé (bouteilles, détendeurs, ---) au magasinier. Il devra retourner 10 jours avant le début du stage la fiche\"suivi de matériel pour stage plongée\".",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "100.00 %",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "FMPA SAL TRIENNALE",
@@ -9599,6 +10670,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "Les tests annuels et FMPA sont une obligation règlementaire pour être inscrit sur la liste d'aptitude opérationnelle départementale des nageurs sauveteurs aquatiques et des scaphandriers autonomes légers.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "100.00 %",
+      "nbStagiairesN1": "55",
       "sessions": [
         {
           "nomShort": "FMPA SAL1",
@@ -9647,6 +10725,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "CTU Confluence 1315\nVTP GC 1655\nLe responsable pédagogique doit signaler impérativement tout matériel utilisé (bouteilles, détendeurs, ---) au magasinier. Il devra retourner 10 jours avant le début du stage la fiche suivi de matériel pour stage plongée.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "98.33 %",
+      "nbStagiairesN1": "26",
       "sessions": [
         {
           "nomShort": "FMPA SAL3",
@@ -9687,6 +10772,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "Les tests annuels et FMPA sont une obligation règlementaire pour être inscrit sur la liste d'aptitude opérationnelle départementale des nageurs sauveteurs aquatiques et des scaphandriers autonomes légers.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "19",
       "sessions": [
         {
           "nomShort": "FMPA SONDEUR OUTILS NUM",
@@ -9735,6 +10827,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "VTP (Caserne de Lyon-Confluence)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "7",
       "sessions": [
         {
           "nomShort": "PRES BAPTEME SAL",
@@ -9759,6 +10858,13 @@
       "nbPlaces": "9",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "Salle de cours (caserne de Lyon-Confluence)\nCTU Confluence 1315\nVTP GC 1655",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "7",
       "sessions": [
         {
           "nomShort": "PRES SAL1 SDMIS",
@@ -9783,6 +10889,13 @@
       "nbPlaces": "3",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "Le responsable pédagogique doit signaler impérativement tout matériel utilisé (bouteilles, détendeurs,---) au magasinier.\nIl devra retourner 10 jours avant le début du stage la fiche \"suivie de matériel pour stage plongée\".",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "3",
       "sessions": [
         {
           "nomShort": "PRES SAL2-3 SDMIS",
@@ -9807,6 +10920,13 @@
       "nbPlaces": "8",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "SNL1",
+      "preparationAvantStage": "",
+      "preRequis": "Etre SAL1.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 VTP (Groupement Centre)\n1 CTU (Caserne de Lyon-Confluence)\n1 carte autoroute (Spécialité)\n1 carte essence (Spécialité)\n1 valise sécurité (Caserne de Lyon-Confluence)\nTente pliable (Caserne de Lyon-Confluence)\nCompresseur portable (Caserne de Lyon-Confluence)\n1 ordinateur portable et 1 vidéoprojecteur portable (Caserne de Lyon-Confluence)\nLes engins assurant le SSO doivent être traités en position \"manoeuvre indisponible\" dans ARTEMIS.",
+      "niveauEncadrement": "1 responsable de stage  SAL3+SNL2\n1 formateur SNL1 ECASC pour un stagiaire",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "SAL SNL1",
@@ -9839,6 +10959,13 @@
       "nbPlaces": "8",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire du SAL1.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 CTU n° 1526 (GFOR)\n1 bidon sécurité (caserne de Lyon Confluence)\nVPL2 + BMS (caserne de Lyon Confluence)\n1 BPS le xx/xx/xxxx (caserne de Lyon Confluence)\n1 BPS le XX/XX/XXXX (Caserne de XXX)\n1 salle de cours (caserne de Lyon Confluence)",
+      "niveauEncadrement": "1 responsable de stage SAL3\n1 formateur SAL3 pour 2 stagiaires.",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "2",
       "sessions": [
         {
           "nomShort": "SAL1 COMP",
@@ -9863,6 +10990,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Formation à destination des CT SAV - SAV3 - FOR SPE - SAL3 - SAL2",
+      "objectif": "Les tests annuels et FMPA sont une obligation règlementaire pour être inscrit sur la liste d'aptitude opérationnelle départementale des nageurs sauveteurs aquatiques et des scaphandriers autonomes légers.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "80.33 %",
+      "nbStagiairesN1": "38",
       "sessions": [
         {
           "nomShort": "FMPA SAV RI",
@@ -9911,6 +11045,13 @@
       "nbPlaces": "14",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "Les tests annuels et FMPA sont une obligation règlementaire pour être inscrit sur la liste d'aptitude opérationnelle départementale des nageurs sauveteurs aquatiques et des scaphandriers autonomes légers.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "94.74 %",
+      "nbStagiairesN1": "150",
       "sessions": [
         {
           "nomShort": "FMPA SAV1 - SAL1",
@@ -10031,6 +11172,13 @@
       "nbPlaces": "14",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "Les tests annuels et FMPA sont une obligation règlementaire pour être inscrit sur la liste d'aptitude opérationnelle départementale des nageurs sauveteurs aquatiques et des scaphandriers autonomes légers.",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "36",
       "sessions": [
         {
           "nomShort": "FMPA SAV3 - SAL2-3 - FOR SPE",
@@ -10063,6 +11211,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "CTU Cusset 1634\nVTP GFOR \nVTP GE 1793\n4 chronomètres + 4 tablettes + 4 stylos (spécialité)\n1 Lot SAP (Caserne de Villeurbanne-Cusset)\n1 Lot TRANS (Caserne de Villeurbanne-Cusset)\nSalle de formation avec ordinateur et vidéoprojecteur (caserne de Villeurbanne-Cusset)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "11",
       "sessions": [
         {
           "nomShort": "PRES SAV1",
@@ -10087,6 +11242,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "SAV1",
+      "preparationAvantStage": "",
+      "preRequis": "Avoir réussi l'accès à la spécialité SAV1.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 VTP 9 places n° X (GFOR) + carte essence\n1 VTP 9 places n° X (GFOR) + carte essence\nVTBAT + BMS (caserne de Villeurbanne Cusset)\n6 radios ANTARES + racks (GFOR)\n1 Lot premier secours (SDS)\nBidon SAP (spécialité)\nSacoches radio étanches (spécialité)\nSalle de formation 25 places (Caserne de Villeurbanne-Cusset)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "100.00 %",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "SAV1",
@@ -10127,6 +11289,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Recyclage réservé aux officiers USAR 2.\nValidation des inscriptions par le chef de la spécialité.",
+      "objectif": "1 salle de cours (GFOR)\n1 VTP (GFOR)\n1 VFI (GFOR)\n1 Sac prompt-secours (SDS)\nMaison SD + Aire SD (GFOR)\nAire SR (PL/Bus) (GFOR)\nFSD caserne Croix-Rousse\nFSU Lourd caserne Croix-Rousse",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "93.33 %",
+      "nbStagiairesN1": "33",
       "sessions": [
         {
           "nomShort": "FMPA cadres USAR",
@@ -10167,6 +11336,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "FMPA USAR COMPLEMENT INSARAG",
@@ -10215,6 +11391,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "1 salle de cours (GFOR)\n1 VTP (GFOR)\n1 VFI (GFOR)\nFSD caserne Croix-Rousse\nFSU Lourd caserne Croix-Rousse",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "90.00 %",
+      "nbStagiairesN1": "97",
       "sessions": [
         {
           "nomShort": "FMPA USAR 1 et 2",
@@ -10327,6 +11510,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Validation des inscriptions par le responsable de la spécialité.",
+      "objectif": "1 salle de cours (GFOR)\n1 CTU (GFOR)\n1 VTP (GFOR)\n1 VFI (GFOR)\n1 Sac prompt-secours (SDS)\nCasques F2 de formation (1 par stagiaire)\nMaison SD + Aire SD (GFOR)\nAire SR (PL/Bus) (GFOR)\nFSD caserne Croix-Rousse\nFSD caserne _\nFSU Lourd caserne Croix-Rousse les jours X",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "86.88 %",
+      "nbStagiairesN1": "11",
       "sessions": [
         {
           "nomShort": "USAR 1",
@@ -10351,6 +11541,13 @@
       "nbPlaces": "6",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "1 salle de cours (GFOR)\n1 VTP (GFOR)\n1 VFI (GFOR)\n1 Sac prompt-secours (SDS)\nMaison SD + Aire SD (GFOR)\nAire SR (PL/Bus) (GFOR)\nFSD caserne Croix-Rousse\nFSU Lourd caserne Croix-Rousse",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "6",
       "sessions": [
         {
           "nomShort": "USAR 2",
@@ -10375,6 +11572,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Prérequis: avoir le niveau 2 des ICP: Pompes, tractions, gainage, Killy et Luc LEGER.",
+      "objectif": "Salle de cours\nSalle de sports\nPlateaux extérieurs (PSSP)\n2 VTP\n1 VL",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "14",
       "sessions": [
         {
           "nomShort": "EAP ARBITRAGE ET JURY",
@@ -10399,6 +11603,13 @@
       "nbPlaces": "5",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Sans objet.",
+      "objectif": "Salle de cours\nSalle de sports\nPlateaux extérieurs (PSSP)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "97.50 %",
+      "nbStagiairesN1": "3",
       "sessions": [
         {
           "nomShort": "EAP JSP",
@@ -10439,6 +11650,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "EAP1",
+      "preparationAvantStage": "",
+      "preRequis": "Niveau 2 aux indicateurs de condition physique.\nêtre titulaire de la formation EAP ARBITRAGE ET JURY\nStage ouvert aux SPP et aux SPV.",
+      "objectif": "Salle de cours\nSalle de sports\nPlateaux extérieurs",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "88.53 %",
+      "nbStagiairesN1": "24",
       "sessions": [
         {
           "nomShort": "EAP1",
@@ -10463,6 +11681,13 @@
       "nbPlaces": "12",
       "publicConcerne": "Partenaire public-autres SDIS",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "EAP2",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'unité de valeur EAP1.\nAvoir validé 3 UV :1/PRAP IBC, 2/ EAPJSP et 3/EAP Juge chrono.\nStage ouvert aux SPP.",
+      "objectif": "Salle de cours\nSalle de sports\nPlateaux extérieurs",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "10",
       "sessions": [
         {
           "nomShort": "EAP2",
@@ -10487,6 +11712,13 @@
       "nbPlaces": "24",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Être titulaire de l¿unité de valeur BNSSA. \nFMPA tous les 5 ans",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "FMPA BNSSA",
@@ -10511,6 +11743,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'EAP1.\nFMPA obligatoire tous les 2 ans.",
+      "objectif": "Salle de cours\nSalle de sports\nPlateaux extérieurs",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "81.20 %",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "FMPA EAP 1",
@@ -10623,6 +11862,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre titulaire de l'EAP2.\nFMPA obligatoire tous les 2 ans.",
+      "objectif": "Salle de cours\nSalle de sports\nPlateaux extérieurs",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "87.92 %",
+      "nbStagiairesN1": "23",
       "sessions": [
         {
           "nomShort": "FMPA EAP 2",
@@ -10679,6 +11925,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Coordinateur de salle opérationnelle",
+      "preparationAvantStage": "",
+      "preRequis": "Sous-officier et affecté au CTA ou officier SPP ayant suivi le module de compréhension.\nListe des stagiaires fournie par le GO.",
+      "objectif": "1 VFI (GFOR)\n2 VTP (GFOR)\nPlateau CTA - Lyon Croix-Rousse",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "4",
       "sessions": [
         {
           "nomShort": "COORDINATEUR SIC",
@@ -10703,6 +11956,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Sous-officier du CTA exerçant la fonction d¿adjoint de chef de salle opérationnelle",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "19",
       "sessions": [
         {
           "nomShort": "FMPA ACSO",
@@ -10735,6 +11995,13 @@
       "nbPlaces": "14",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Formation obligatoire pour les capitaines et commandants titulaires du diplôme coordinateur SIC afin d'assurer les fonctions de chef de salle",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "55",
       "sessions": [
         {
           "nomShort": "FMPA CHEF DE SALLE",
@@ -10799,6 +12066,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Sous-officier et affecté au CTA ou officier SPP ayant suivi la formation de coordinateur de salle opérationnelle.\nListe des stagiaires fournie par le GO.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "96.11 %",
+      "nbStagiairesN1": "80",
       "sessions": [
         {
           "nomShort": "FMPA COORDINATEUR SIC et OFFSANTE",
@@ -10879,6 +12153,13 @@
       "nbPlaces": "12",
       "publicConcerne": "PATS, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "96.25 %",
+      "nbStagiairesN1": "9",
       "sessions": [
         {
           "nomShort": "FMPA FENICS",
@@ -10903,6 +12184,13 @@
       "nbPlaces": "24",
       "publicConcerne": "PATS, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Commandant des SIC, officier des SIC ou technicien des SIC",
+      "objectif": "RSAT\nBERCE CDT (GLOG)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "92.40 %",
+      "nbStagiairesN1": "42",
       "sessions": [
         {
           "nomShort": "FMPA OFF ET TECH SIC",
@@ -10927,6 +12215,13 @@
       "nbPlaces": "14",
       "publicConcerne": "PATS, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Etre télépilote drone SDMIS",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "85.00 %",
+      "nbStagiairesN1": "23",
       "sessions": [
         {
           "nomShort": "FMPA OPERATEUR DRONE",
@@ -10959,6 +12254,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Etre affecté au CTA.\nListe des stagiaires fournie par le GO.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "90.21 %",
+      "nbStagiairesN1": "16",
       "sessions": [
         {
           "nomShort": "FMPA OPERATEUR SIC OTAU-OCO",
@@ -11039,6 +12341,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "FMPA OPERATEURS ET RESERVISTES",
@@ -11127,6 +12436,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "FORMATION AMBASSADEURS NexSIS",
@@ -11175,6 +12491,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "FORMATION AMBASSADEURS RRF",
@@ -11207,6 +12530,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "MAN NexSIS CDS",
@@ -11239,6 +12569,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "MAN NexSIS CHEF DE SALLE",
@@ -11295,6 +12632,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "MAN NexSIS et RRF REFERENT CT",
@@ -11439,6 +12783,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "MAN NexSIS OFF SANTE",
@@ -11487,6 +12838,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "MAN NexSIS OPERATEUR ET ASCO",
@@ -11551,6 +12909,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "MAN NexSIS OSO CRRA15",
@@ -11591,6 +12956,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "MAN NexSIS Reservistes",
@@ -11623,6 +12995,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "MAN NexSIS RRF CHEF GPT ET CT",
@@ -11663,6 +13042,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "MAN RRF OSO/CRRA",
@@ -11695,6 +13081,13 @@
       "nbPlaces": "8",
       "publicConcerne": "SPP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "7",
       "sessions": [
         {
           "nomShort": "OFFICIER SOUTIEN OPE",
@@ -11719,6 +13112,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "OCO PC TAC",
+      "preparationAvantStage": "",
+      "preRequis": "Etre affecté au CTA.\nListe des stagiaires fournie par le GO.",
+      "objectif": "1 VTP (GFOR)\n1 VPC\nRSAT\nBERCE CDT (GLOG)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "11",
       "sessions": [
         {
           "nomShort": "OPERATEUR SIC OCO-PC TAC",
@@ -11743,6 +13143,13 @@
       "nbPlaces": "16",
       "publicConcerne": "SPP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "OTAU+OCO+OCO PC TAC",
+      "preparationAvantStage": "",
+      "preRequis": "Etre affecté au CTA.\nListe des stagiaires fournie par le GO.",
+      "objectif": "1 VFI (GFOR)\n2 VTP (GFOR)\nPlateau CTA - Lyon Croix-Rousse",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "87.50 %",
+      "nbStagiairesN1": "19",
       "sessions": [
         {
           "nomShort": "OPERATEUR SIC OTAU-OCO",
@@ -11767,6 +13174,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Tous les ISP et MSP participant à la médecine d'aptitude.",
+      "objectif": "",
+      "niveauEncadrement": "1 Responsable désigné par la SDS : Formateur médecine professionnelle et préventive\n1 formateur SDS : Formateur médecine professionnelle et préventive",
+      "tauxSatisfaction": "91.50 %",
+      "nbStagiairesN1": "25",
       "sessions": [
         {
           "nomShort": "FI MPP",
@@ -11807,6 +13221,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Tous les ISP, MSP, PSP, VSP et experts-psychologues participant aux missions opérationnelles de la SDS.\nAptitude médicale aux formations.",
+      "objectif": "Prévenir la LMS de l'utilisation du lot formation NRBCe.",
+      "niveauEncadrement": "1 RS désigné par SDS : formateur opérationnel santé\n1 formateur SDS : formateur opérationnel santé\n2 formateurs INC : Formateur INC (OTR/TEA)\n1 formateur Soutien : Opérateur PC CEPARI  le J2 de 08h00 à 10h00\n1 formateur SDS :Expert Santé le J2 de 13h00 à 17h00",
+      "tauxSatisfaction": "93.06 %",
+      "nbStagiairesN1": "40",
       "sessions": [
         {
           "nomShort": "FI OPE SANTE",
@@ -11847,6 +13268,13 @@
       "nbPlaces": "10",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Habilitation à la mise en oeuvre des protocoles par la médecin-cheffe.",
+      "preparationAvantStage": "Avoir complété le livret d'accompagnement professionnel individualisé numérique (LAPIN).",
+      "preRequis": "Avoir réalisé la FI PISU 1, avoir réalisé les doublures opérationnelles et avoir l'accord de l'infirmier de groupement territorial.",
+      "objectif": "",
+      "niveauEncadrement": "Médecin-chef ou son représentant\n1 représentant santé de chaque sous-direction",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "8",
       "sessions": [
         {
           "nomShort": "FI PISU JURY",
@@ -11911,6 +13339,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Tous les ISP et médecins aspirants et lieutenants appelés à participer aux missions opérationnelles de la SDS.\nAptitude médicale infirmier opérationnel\nAvoir suivi et validé le module \"FI OPE SANTE\" et le module \"FI PISU FOAD\".",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "83.75 %",
+      "nbStagiairesN1": "16",
       "sessions": [
         {
           "nomShort": "FI PISU 1",
@@ -11943,6 +13378,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Tous les ISP et médecins aspirants et lieutenants appelés à participer aux missions opérationnelles de la SDS.\nAptitude médicale infirmier opérationnel ou médecin opérationnel.\nAvoir suivi et validé le module \"FI PISU 1\" et \"FI PISU JURY\" et le module \"FI PISU 2-3 FOAD\".",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "85.83 %",
+      "nbStagiairesN1": "9",
       "sessions": [
         {
           "nomShort": "FI PISU 2-3",
@@ -11975,6 +13417,13 @@
       "nbPlaces": "24",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet",
+      "preparationAvantStage": "",
+      "preRequis": "Tous les agents participant à la médecine d'aptitude.\nAptitude médicale aux formations.",
+      "objectif": "",
+      "niveauEncadrement": "1 Responsable désigné par la SDS : Formateur médecine professionnelle et préventive\n1 formateur SDS : Formateur médecine professionnelle et préventive",
+      "tauxSatisfaction": "87.68 %",
+      "nbStagiairesN1": "63",
       "sessions": [
         {
           "nomShort": "FMPA MPP",
@@ -12031,6 +13480,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "100.00 %",
+      "nbStagiairesN1": "21",
       "sessions": [
         {
           "nomShort": "FMPA OFF SANTE",
@@ -12071,6 +13527,13 @@
       "nbPlaces": "16",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Tous les ISP, MSP, PSP, VSP et EP de la SDS.\nAptitude médicale aux formations.\nÊtre titulaire de la FI OPE SANTÉ.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "97.02 %",
+      "nbStagiairesN1": "94",
       "sessions": [
         {
           "nomShort": "FMPA OPE SANTE",
@@ -12183,6 +13646,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Tous les ISP participant aux missions opérationnelles du SSSM.\nAptitude médicale infirmier opérationnel.\nAvoir suivi et validé le module \"FI PSU\" ou \"FI PISU\".",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "79.91 %",
+      "nbStagiairesN1": "90",
       "sessions": [
         {
           "nomShort": "FMPA PISU NIVEAU 1",
@@ -12231,6 +13701,13 @@
       "nbPlaces": "12",
       "publicConcerne": "SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "87.52 %",
+      "nbStagiairesN1": "54",
       "sessions": [
         {
           "nomShort": "FMPA PISU NIVEAU 2_3",
@@ -12295,6 +13772,13 @@
       "nbPlaces": "10",
       "publicConcerne": "PATS, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "64.17 %",
+      "nbStagiairesN1": "42",
       "sessions": [
         {
           "nomShort": "PRAP IBC",
@@ -12327,6 +13811,13 @@
       "nbPlaces": "250",
       "publicConcerne": "JSP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "BNJSP 2024\nEtre JSP 4 au premier jour du breve\nËtre âgé de 16 ans dans l'année civile d'organisation des épreuves et de 18 ans au plus.\nEtre apte médicalement et produire une autorisation parentale (sur INFOJSP)\nEtre détenteur du PSC 1\nAvoir suivi le PS JSP 2 \nAvoir fait les évaluations obligatoires intermédiaires et les QCM départementaux en JSP 2 et JSP 3. \nAvoir suivi la semaine complémentaire JSP 3.\nAvoir suivi la semaine complémentaire JSP 4.\nAvoir suivi la totalité de formation de JSP (UV1, 2,3 et 4).\nBNJSP 2025\nEtre JSP 4 au premier jour du brevet\nËtre âgé de 16 ans dans l'année civile d'organisation des épreuves et de 18 ans au plus.\nEtre apte médicalement et produire une autorisation parentale (sur INFOJSP)\nEtre détenteur du PSC 1\nAvoir suivi le PS JSP 2 \nAvoir fait les évaluations obligatoires intermédiaires et les QCM départementaux en JSP 2 et JSP 3. \nAvoir suivi la semaine complémentaire JSP 3.\nAvoir suivi la semaine complémentaire JSP 4.\nAvoir suivi la totalité de formation de JSP (UV1, 2,3 et 4).",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage : chef du pôle jeunesse et développement du citoyen\n1 responsable de stage adjoint : \n-\tChef de pôle APS le 1er jour\n-\tAdjoint du pôle jeunesse et développement du citoyen les 2ème et 3ème jour\n1 technicien logistique les 2ème et 3ème jour\n2 secrétaires (les trois jours)\nExaminateurs : \nLe 1er jour : \n-\tEAP : suivant le nombre de candidats\n-\t1 BNSSA\nLes 2ème et 3ème jour :\n-\tX jury : évaluateurs (formateurs aux bases INC) : suivant le nombre de candidats\n-\t4 CMOV CEP",
+      "tauxSatisfaction": "93.94 %",
+      "nbStagiairesN1": "157",
       "sessions": [
         {
           "nomShort": "BNJSP",
@@ -12375,6 +13866,13 @@
       "nbPlaces": "50",
       "publicConcerne": "JSP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Epreuves représentées.",
+      "preparationAvantStage": "",
+      "preRequis": "JSP ayant échoué une ou plusieurs épreuves du BNJSP.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage : chef du pôle jeunesse et développement du citoyen\n2 responsables de stage adjoint : \n-\tChef de pôle APS le matin,\n-\tAdjoint du pôle jeunesse et développement du citoyen,\n1 technicien logistique,\n2 secrétaires, \n1 BNSSA,\nExaminateurs : \nEAP, Jury évaluateurs (formateur de base INC), CMOV CEP : suivant le nombre de candidats",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "47",
       "sessions": [
         {
           "nomShort": "SE R BNJSP",
@@ -12407,6 +13905,13 @@
       "nbPlaces": "12",
       "publicConcerne": "JSP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "UV représentées.",
+      "preparationAvantStage": "",
+      "preRequis": "JSP ayant échoué l'épreuve ARICO lors d'une SEM JSP 4",
+      "objectif": "",
+      "niveauEncadrement": "2 évaluateurs",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "5",
       "sessions": [
         {
           "nomShort": "SE RTC JSP",
@@ -12447,6 +13952,13 @@
       "nbPlaces": "24",
       "publicConcerne": "JSP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Séquences INC - PPBE",
+      "preparationAvantStage": "Réaliser la FOAD.\nMaitriser les connaissances théoriques des man¿uvres en étage et ARICO.",
+      "preRequis": "Etre J.S.P. 3 au premier jour du stage\nAvoir réalisé la FOAD.",
+      "objectif": "",
+      "niveauEncadrement": "1 responsable de stage \"formateur accompagnateur\"\n1 Formateur accompagnateur ou accompagnateur de proximité CMOV CEP pour 6 stagiaires \n3 Formateurs accompagnateur ou accompagnateur de proximité aux bases incendie",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "164",
       "sessions": [
         {
           "nomShort": "SEM JSP 3",
@@ -12559,6 +14071,13 @@
       "nbPlaces": "24",
       "publicConcerne": "JSP",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Séquences INC - PPBE",
+      "preparationAvantStage": "Réaliser la FOAD.",
+      "preRequis": "Etre JSP4 au premier jour du stage.\nAvoir réalisé la FOAD.",
+      "objectif": "",
+      "niveauEncadrement": "1 Responsable de stage \"formateur accompagnateur\" et formateur aux bases  incendie\n1 Formateur accompagnateur ou accompagnateur de proximité et formateur aux bases  incendie pour 6 stagiaires dont au moins un CMOV CEP.\n2 examinateurs \"formateur aux bases incendie\" le J5.\nSemaines avec n° pair :\n4 opérateurs points feux MAF les J4\n1 opérateur PC MAF le J4\n3 FOR OTR le J3 AM\nSemaines avec n° impair :\n4 opérateurs points feux MAF les J2\n1 opérateur PC MAF le J2\n3 FOR OTR le J1 AM",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "133",
       "sessions": [
         {
           "nomShort": "SEM JSP 4",
@@ -12671,6 +14190,13 @@
       "nbPlaces": "30",
       "publicConcerne": "JSP",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Ëtre JSP3.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "131",
       "sessions": [
         {
           "nomShort": "SENS JSP3 VIOLENCES SUR MINEUR",
@@ -12735,6 +14261,13 @@
       "nbPlaces": "0",
       "publicConcerne": "JSP, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "- 2 VL\n - 2 VTU\n - 12 radios\n- 2 caméscopes\n - 2 tentes\n - 1 ordinateur portable\n - packs d'eau (100 personnes)\n - café/thé/chocolat (100 personnes)",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "CHALLENGE DEPARTEMENTAL",
@@ -12759,6 +14292,13 @@
       "nbPlaces": "0",
       "publicConcerne": "",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "CHALLENGE NATIONAL",
@@ -12783,6 +14323,13 @@
       "nbPlaces": "0",
       "publicConcerne": "",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "81",
       "sessions": [
         {
           "nomShort": "CHALLENGE REGIONAL",
@@ -12807,6 +14354,13 @@
       "nbPlaces": "0",
       "publicConcerne": "JSP, PATS, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "- 1 VTU\n - 1 VL\n - 1 groupe électrogène+essence+ cablage électrique\n - 12 radios\n - 2 tentes\n - rubalise (5 km)\n - 1 table",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "CROSS DEP",
@@ -12831,6 +14385,13 @@
       "nbPlaces": "0",
       "publicConcerne": "JSP, PATS, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "- 1 VTU\n - 1 VL\n - 1 groupe électrogène+ essence+ cablage électrique\n - 12 radios \n - 2 tentes\n - rubalise (2km/cross)\n - 1 table",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "CROSS ENTRAIN",
@@ -12863,6 +14424,13 @@
       "nbPlaces": "0",
       "publicConcerne": "",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "CROSS NATIONAL",
@@ -12887,6 +14455,13 @@
       "nbPlaces": "0",
       "publicConcerne": "",
       "typeEvaluation": "formative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "",
       "sessions": [
         {
           "nomShort": "CROSS REGIONAL",
@@ -12911,6 +14486,13 @@
       "nbPlaces": "24",
       "publicConcerne": "Partenaire public-éducation nationale",
       "typeEvaluation": "formative",
+      "modulesObtenus": "PRV1",
+      "preparationAvantStage": "",
+      "preRequis": "Liste des stagiaires transmise par le responsable du BUT à l'IUT Lumière",
+      "objectif": "",
+      "niveauEncadrement": "L'encadrement est réalisé uniquement sur temps de repos, l'IUT se chargeant de la rémunération des formateurs.",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "39",
       "sessions": [
         {
           "nomShort": "BUT HSE AP1",
@@ -12943,6 +14525,13 @@
       "nbPlaces": "45",
       "publicConcerne": "Partenaire public-éducation nationale",
       "typeEvaluation": "formative",
+      "modulesObtenus": "RCH1 RAD1",
+      "preparationAvantStage": "",
+      "preRequis": "Liste des stagiaires transmise par le responsable du BUT à l'IUT Lumière",
+      "objectif": "1 salle de cours de 50 places\nsalle 103 TP\nsalle informatique\n1 FPT gfor\n3 VTP gfor \nFNRBC de formation \nPacks d'eau gfor \naire risques technologiques \nMAF",
+      "niveauEncadrement": "L'encadrement est réalisé uniquement sur temps de repos, l'IUT se chargeant de la rémunération des formateurs.",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "38",
       "sessions": [
         {
           "nomShort": "BUT HSE RAD-RCH",
@@ -12967,6 +14556,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Incendie",
+      "preparationAvantStage": "",
+      "preRequis": "Inscriptions faites par le chef du pôle jeunesse et développement du citoyen.\nListes fournies par les établissements scolaires enseignant cette filière.\nEtre apte opérationnel opérations diverses.",
+      "objectif": "",
+      "niveauEncadrement": "- 1 responsable pédagogique INC : Formateur aux bases incendie désigné par le GFOR parmi les formateurs\n- 5 formateurs INC : Formateur aux bases incendie CMOV CEP : tout le stage\n- 1 JURY : Evaluateur / Jury / Recrutement / juge chrono : J1 de 8h00 à  12h00 (EAP / PAO incendie) pour les ICP\n- 1 INC : Formateur INC (OTR/TEA) J5\n- 4 Soutiens : Opérateur points feux MAF (OTR) J13\n- 1 Soutien : opérateur Poste Commande MAF J13",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "15",
       "sessions": [
         {
           "nomShort": "BAC PRO INC",
@@ -12991,6 +14587,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Inscriptions faites par le chef du pôle jeunesse et développement du citoyen.\nListes fournies par les établissements scolaires enseignant cette filière.\nEtre apte opérationnel PPBE.",
+      "objectif": "",
+      "niveauEncadrement": "- 1 responsable pédagogique PPBE : Formateur PPBE désigné le GFOR\n- 3 formateurs PPBE : Formateur PPBE tout le stage\n- 4 formateurs PPBE : Formateur tronçonneuse le J2\n- 1 formateur outils de forcement le matin du J3\n- 1 formateur SSSM : Vétérinaire / Animalier le J1 de 13h à 17h",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "24",
       "sessions": [
         {
           "nomShort": "BAC PRO PPBE",
@@ -13015,6 +14618,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Inscriptions faites par le chef du pôle jeunesse et développement du citoyen. Listes fournies par les établissements scolaires enseignant cette filière.",
+      "objectif": "",
+      "niveauEncadrement": "- 1 responsable pédagogique INC : Formateur aux bases incendie désigné par le GFOR\n- 4 Formateurs INC : Formateur aux bases incendie\n- 1 JURY : Evaluateur / Jury / Recrutement / juge chrono : le J2 de 08h à 12h pour ICP\n1 formateur pour 6 stagiaires\n1 EAP le matin du 2ème jour.",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "24",
       "sessions": [
         {
           "nomShort": "BAC PRO SMS",
@@ -13039,6 +14649,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "SUAP A",
+      "preparationAvantStage": "Révisions des cours d'anatomie physiologique.",
+      "preRequis": "Stagiaires inscrits par le chef du pôle jeunesse et développement du citoyen.\nListes fournies par les établissements scolaires enseignant cette filière.",
+      "objectif": "",
+      "niveauEncadrement": "- 1 responsable pédagogique (FPS) désigné par le GFOR\n- 4 formateurs SUAP : Formateur Premiers Secours\n- 1 formateur SSSM : Infirmier : J1 de 9h à 12h",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "18",
       "sessions": [
         {
           "nomShort": "BAC PRO SUAP A",
@@ -13063,6 +14680,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "Equipier VSAV",
+      "preparationAvantStage": "Révisions des cours d'anatomie physiologie.",
+      "preRequis": "Stagiaires inscrits par le chef du pôle jeunesse et développement du citoyen.\nListes fournies par les établissements scolaires enseignant cette filière.",
+      "objectif": "",
+      "niveauEncadrement": "- 1 responsable pédagogique (FPS) désigné par le GFOR\n- 4 formateurs SUAP : Formateur Premiers Secours\n- 1 formateur SSSM : Infirmier : J1 de 13h à 17h",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "21",
       "sessions": [
         {
           "nomShort": "BAC PRO SUAP B",
@@ -13087,6 +14711,13 @@
       "nbPlaces": "30",
       "publicConcerne": "SPV",
       "typeEvaluation": "certificative",
+      "modulesObtenus": "",
+      "preparationAvantStage": "",
+      "preRequis": "Inscriptions faites par le chef du pôle jeunesse et développement du citoyen. Listes fournies par les établissements scolaires enseignant cette filière.",
+      "objectif": "",
+      "niveauEncadrement": "- 1 responsable de stage FPS désigné par le GFOR\n- 4 formateurs  SUAP : Formateur Premiers Secours\n- 1 formateur EAP le 1er jour",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "23",
       "sessions": [
         {
           "nomShort": "BAC PRO TRANSVERSE",
@@ -13111,6 +14742,13 @@
       "nbPlaces": "220",
       "publicConcerne": "Partenaire public-autres organismes, Partenaire public-autres SDIS, PATS, SPP, SPV",
       "typeEvaluation": "formative",
+      "modulesObtenus": "Sans objet.",
+      "preparationAvantStage": "",
+      "preRequis": "Les inscriptions à cette formation sont effectuées par le responsable du pôle NRBC-E.",
+      "objectif": "",
+      "niveauEncadrement": "",
+      "tauxSatisfaction": "",
+      "nbStagiairesN1": "539",
       "sessions": [
         {
           "nomShort": "CEZ Entrainement NRBCe",
@@ -13131,5 +14769,5 @@
       ]
     }
   ],
-  "extraitLe": "2026-02-17T14:04:58.710Z"
+  "extraitLe": "2026-02-17T15:06:01.776Z"
 }
